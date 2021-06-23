@@ -10,12 +10,9 @@ import plotly.graph_objs as go
 
 
 def getData():
-	data_link1 = "https://data.cityofnewyork.us/resource/nwxe-4ae8.json"\
-	"?$limit=50000&$select=tree_id,spc_common,boroname,health,steward"
+	data_link1 = "nwxe-4ae8.json"
 	data_frame1 = pd.read_json(data_link1)
-	data_link2 = "https://data.cityofnewyork.us/resource/nwxe-4ae8.json"\
-	"?$limit=5000&$select=spc_common,health,count(spc_common),boroname"\
-	"&$group=spc_common,health,boroname"
+	data_link2 = "nwxe-4ae82.json"
 	data_frame2 = pd.read_json(data_link2)
 	data_frame1.dropna(inplace=True)
 	data_frame2.dropna(inplace=True)
