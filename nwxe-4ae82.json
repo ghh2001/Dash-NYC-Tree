@@ -1,0 +1,1818 @@
+[{"spc_common":"American beech","health":"Fair","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"American beech","health":"Fair","count_spc_common":"18","boroname":"Brooklyn"}
+,{"spc_common":"American beech","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"American beech","health":"Fair","count_spc_common":"8","boroname":"Queens"}
+,{"spc_common":"American beech","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"American beech","health":"Good","count_spc_common":"21","boroname":"Bronx"}
+,{"spc_common":"American beech","health":"Good","count_spc_common":"59","boroname":"Brooklyn"}
+,{"spc_common":"American beech","health":"Good","count_spc_common":"15","boroname":"Manhattan"}
+,{"spc_common":"American beech","health":"Good","count_spc_common":"73","boroname":"Queens"}
+,{"spc_common":"American beech","health":"Good","count_spc_common":"46","boroname":"Staten Island"}
+,{"spc_common":"American beech","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"American beech","health":"Poor","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"American beech","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"American beech","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"American beech","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"American elm","health":"Fair","count_spc_common":"248","boroname":"Bronx"}
+,{"spc_common":"American elm","health":"Fair","count_spc_common":"497","boroname":"Brooklyn"}
+,{"spc_common":"American elm","health":"Fair","count_spc_common":"259","boroname":"Manhattan"}
+,{"spc_common":"American elm","health":"Fair","count_spc_common":"231","boroname":"Queens"}
+,{"spc_common":"American elm","health":"Fair","count_spc_common":"60","boroname":"Staten Island"}
+,{"spc_common":"American elm","health":"Good","count_spc_common":"1176","boroname":"Bronx"}
+,{"spc_common":"American elm","health":"Good","count_spc_common":"2026","boroname":"Brooklyn"}
+,{"spc_common":"American elm","health":"Good","count_spc_common":"1361","boroname":"Manhattan"}
+,{"spc_common":"American elm","health":"Good","count_spc_common":"1414","boroname":"Queens"}
+,{"spc_common":"American elm","health":"Good","count_spc_common":"435","boroname":"Staten Island"}
+,{"spc_common":"American elm","health":"Poor","count_spc_common":"47","boroname":"Bronx"}
+,{"spc_common":"American elm","health":"Poor","count_spc_common":"64","boroname":"Brooklyn"}
+,{"spc_common":"American elm","health":"Poor","count_spc_common":"78","boroname":"Manhattan"}
+,{"spc_common":"American elm","health":"Poor","count_spc_common":"64","boroname":"Queens"}
+,{"spc_common":"American elm","health":"Poor","count_spc_common":"15","boroname":"Staten Island"}
+,{"spc_common":"American hophornbeam","health":"Fair","count_spc_common":"28","boroname":"Bronx"}
+,{"spc_common":"American hophornbeam","health":"Fair","count_spc_common":"71","boroname":"Brooklyn"}
+,{"spc_common":"American hophornbeam","health":"Fair","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"American hophornbeam","health":"Fair","count_spc_common":"34","boroname":"Queens"}
+,{"spc_common":"American hophornbeam","health":"Fair","count_spc_common":"13","boroname":"Staten Island"}
+,{"spc_common":"American hophornbeam","health":"Good","count_spc_common":"148","boroname":"Bronx"}
+,{"spc_common":"American hophornbeam","health":"Good","count_spc_common":"273","boroname":"Brooklyn"}
+,{"spc_common":"American hophornbeam","health":"Good","count_spc_common":"64","boroname":"Manhattan"}
+,{"spc_common":"American hophornbeam","health":"Good","count_spc_common":"250","boroname":"Queens"}
+,{"spc_common":"American hophornbeam","health":"Good","count_spc_common":"131","boroname":"Staten Island"}
+,{"spc_common":"American hophornbeam","health":"Poor","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"American hophornbeam","health":"Poor","count_spc_common":"22","boroname":"Brooklyn"}
+,{"spc_common":"American hophornbeam","health":"Poor","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"American hophornbeam","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"American hophornbeam","health":"Poor","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"American hornbeam","health":"Fair","count_spc_common":"61","boroname":"Bronx"}
+,{"spc_common":"American hornbeam","health":"Fair","count_spc_common":"45","boroname":"Brooklyn"}
+,{"spc_common":"American hornbeam","health":"Fair","count_spc_common":"13","boroname":"Manhattan"}
+,{"spc_common":"American hornbeam","health":"Fair","count_spc_common":"57","boroname":"Queens"}
+,{"spc_common":"American hornbeam","health":"Fair","count_spc_common":"27","boroname":"Staten Island"}
+,{"spc_common":"American hornbeam","health":"Good","count_spc_common":"211","boroname":"Bronx"}
+,{"spc_common":"American hornbeam","health":"Good","count_spc_common":"275","boroname":"Brooklyn"}
+,{"spc_common":"American hornbeam","health":"Good","count_spc_common":"67","boroname":"Manhattan"}
+,{"spc_common":"American hornbeam","health":"Good","count_spc_common":"439","boroname":"Queens"}
+,{"spc_common":"American hornbeam","health":"Good","count_spc_common":"229","boroname":"Staten Island"}
+,{"spc_common":"American hornbeam","health":"Poor","count_spc_common":"23","boroname":"Bronx"}
+,{"spc_common":"American hornbeam","health":"Poor","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"American hornbeam","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"American hornbeam","health":"Poor","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"American hornbeam","health":"Poor","count_spc_common":"13","boroname":"Staten Island"}
+,{"spc_common":"American larch","health":"Fair","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"American larch","health":"Fair","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"American larch","health":"Fair","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"American larch","health":"Good","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"American larch","health":"Good","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"American larch","health":"Good","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"American larch","health":"Good","count_spc_common":"8","boroname":"Queens"}
+,{"spc_common":"American larch","health":"Good","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"American larch","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"American linden","health":"Fair","count_spc_common":"314","boroname":"Bronx"}
+,{"spc_common":"American linden","health":"Fair","count_spc_common":"550","boroname":"Brooklyn"}
+,{"spc_common":"American linden","health":"Fair","count_spc_common":"379","boroname":"Manhattan"}
+,{"spc_common":"American linden","health":"Fair","count_spc_common":"607","boroname":"Queens"}
+,{"spc_common":"American linden","health":"Fair","count_spc_common":"94","boroname":"Staten Island"}
+,{"spc_common":"American linden","health":"Good","count_spc_common":"1725","boroname":"Bronx"}
+,{"spc_common":"American linden","health":"Good","count_spc_common":"3231","boroname":"Brooklyn"}
+,{"spc_common":"American linden","health":"Good","count_spc_common":"1020","boroname":"Manhattan"}
+,{"spc_common":"American linden","health":"Good","count_spc_common":"3971","boroname":"Queens"}
+,{"spc_common":"American linden","health":"Good","count_spc_common":"897","boroname":"Staten Island"}
+,{"spc_common":"American linden","health":"Poor","count_spc_common":"93","boroname":"Bronx"}
+,{"spc_common":"American linden","health":"Poor","count_spc_common":"242","boroname":"Brooklyn"}
+,{"spc_common":"American linden","health":"Poor","count_spc_common":"184","boroname":"Manhattan"}
+,{"spc_common":"American linden","health":"Poor","count_spc_common":"191","boroname":"Queens"}
+,{"spc_common":"American linden","health":"Poor","count_spc_common":"32","boroname":"Staten Island"}
+,{"spc_common":"Amur cork tree","health":"Fair","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"Amur cork tree","health":"Fair","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"Amur cork tree","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Amur cork tree","health":"Fair","count_spc_common":"20","boroname":"Queens"}
+,{"spc_common":"Amur cork tree","health":"Fair","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"Amur cork tree","health":"Good","count_spc_common":"25","boroname":"Bronx"}
+,{"spc_common":"Amur cork tree","health":"Good","count_spc_common":"32","boroname":"Brooklyn"}
+,{"spc_common":"Amur cork tree","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Amur cork tree","health":"Good","count_spc_common":"34","boroname":"Queens"}
+,{"spc_common":"Amur cork tree","health":"Good","count_spc_common":"23","boroname":"Staten Island"}
+,{"spc_common":"Amur cork tree","health":"Poor","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Amur cork tree","health":"Poor","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"Amur cork tree","health":"Poor","count_spc_common":"17","boroname":"Queens"}
+,{"spc_common":"Amur maackia","health":"Fair","count_spc_common":"62","boroname":"Bronx"}
+,{"spc_common":"Amur maackia","health":"Fair","count_spc_common":"104","boroname":"Brooklyn"}
+,{"spc_common":"Amur maackia","health":"Fair","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"Amur maackia","health":"Fair","count_spc_common":"68","boroname":"Queens"}
+,{"spc_common":"Amur maackia","health":"Fair","count_spc_common":"37","boroname":"Staten Island"}
+,{"spc_common":"Amur maackia","health":"Good","count_spc_common":"379","boroname":"Bronx"}
+,{"spc_common":"Amur maackia","health":"Good","count_spc_common":"578","boroname":"Brooklyn"}
+,{"spc_common":"Amur maackia","health":"Good","count_spc_common":"46","boroname":"Manhattan"}
+,{"spc_common":"Amur maackia","health":"Good","count_spc_common":"589","boroname":"Queens"}
+,{"spc_common":"Amur maackia","health":"Good","count_spc_common":"219","boroname":"Staten Island"}
+,{"spc_common":"Amur maackia","health":"Poor","count_spc_common":"25","boroname":"Bronx"}
+,{"spc_common":"Amur maackia","health":"Poor","count_spc_common":"47","boroname":"Brooklyn"}
+,{"spc_common":"Amur maackia","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"Amur maackia","health":"Poor","count_spc_common":"18","boroname":"Queens"}
+,{"spc_common":"Amur maackia","health":"Poor","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"Amur maple","health":"Fair","count_spc_common":"61","boroname":"Bronx"}
+,{"spc_common":"Amur maple","health":"Fair","count_spc_common":"49","boroname":"Brooklyn"}
+,{"spc_common":"Amur maple","health":"Fair","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Amur maple","health":"Fair","count_spc_common":"130","boroname":"Queens"}
+,{"spc_common":"Amur maple","health":"Fair","count_spc_common":"62","boroname":"Staten Island"}
+,{"spc_common":"Amur maple","health":"Good","count_spc_common":"350","boroname":"Bronx"}
+,{"spc_common":"Amur maple","health":"Good","count_spc_common":"196","boroname":"Brooklyn"}
+,{"spc_common":"Amur maple","health":"Good","count_spc_common":"19","boroname":"Manhattan"}
+,{"spc_common":"Amur maple","health":"Good","count_spc_common":"505","boroname":"Queens"}
+,{"spc_common":"Amur maple","health":"Good","count_spc_common":"570","boroname":"Staten Island"}
+,{"spc_common":"Amur maple","health":"Poor","count_spc_common":"20","boroname":"Bronx"}
+,{"spc_common":"Amur maple","health":"Poor","count_spc_common":"18","boroname":"Brooklyn"}
+,{"spc_common":"Amur maple","health":"Poor","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"Amur maple","health":"Poor","count_spc_common":"36","boroname":"Queens"}
+,{"spc_common":"Amur maple","health":"Poor","count_spc_common":"22","boroname":"Staten Island"}
+,{"spc_common":"arborvitae","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"arborvitae","health":"Fair","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"arborvitae","health":"Fair","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"arborvitae","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"arborvitae","health":"Good","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"arborvitae","health":"Good","count_spc_common":"63","boroname":"Brooklyn"}
+,{"spc_common":"arborvitae","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"arborvitae","health":"Good","count_spc_common":"160","boroname":"Queens"}
+,{"spc_common":"arborvitae","health":"Good","count_spc_common":"53","boroname":"Staten Island"}
+,{"spc_common":"arborvitae","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"arborvitae","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"arborvitae","health":"Poor","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"ash","health":"Fair","count_spc_common":"43","boroname":"Bronx"}
+,{"spc_common":"ash","health":"Fair","count_spc_common":"66","boroname":"Brooklyn"}
+,{"spc_common":"ash","health":"Fair","count_spc_common":"13","boroname":"Manhattan"}
+,{"spc_common":"ash","health":"Fair","count_spc_common":"130","boroname":"Queens"}
+,{"spc_common":"ash","health":"Fair","count_spc_common":"140","boroname":"Staten Island"}
+,{"spc_common":"ash","health":"Good","count_spc_common":"237","boroname":"Bronx"}
+,{"spc_common":"ash","health":"Good","count_spc_common":"293","boroname":"Brooklyn"}
+,{"spc_common":"ash","health":"Good","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"ash","health":"Good","count_spc_common":"1151","boroname":"Queens"}
+,{"spc_common":"ash","health":"Good","count_spc_common":"394","boroname":"Staten Island"}
+,{"spc_common":"ash","health":"Poor","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"ash","health":"Poor","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"ash","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"ash","health":"Poor","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"ash","health":"Poor","count_spc_common":"35","boroname":"Staten Island"}
+,{"spc_common":"Atlantic white cedar","health":"Fair","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"Atlantic white cedar","health":"Fair","count_spc_common":"16","boroname":"Brooklyn"}
+,{"spc_common":"Atlantic white cedar","health":"Fair","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"Atlantic white cedar","health":"Fair","count_spc_common":"18","boroname":"Queens"}
+,{"spc_common":"Atlantic white cedar","health":"Fair","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"Atlantic white cedar","health":"Good","count_spc_common":"48","boroname":"Bronx"}
+,{"spc_common":"Atlantic white cedar","health":"Good","count_spc_common":"76","boroname":"Brooklyn"}
+,{"spc_common":"Atlantic white cedar","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Atlantic white cedar","health":"Good","count_spc_common":"108","boroname":"Queens"}
+,{"spc_common":"Atlantic white cedar","health":"Good","count_spc_common":"24","boroname":"Staten Island"}
+,{"spc_common":"Atlantic white cedar","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"Atlantic white cedar","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"Atlantic white cedar","health":"Poor","count_spc_common":"22","boroname":"Staten Island"}
+,{"spc_common":"Atlas cedar","health":"Fair","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"Atlas cedar","health":"Fair","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"Atlas cedar","health":"Good","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"Atlas cedar","health":"Good","count_spc_common":"29","boroname":"Brooklyn"}
+,{"spc_common":"Atlas cedar","health":"Good","count_spc_common":"35","boroname":"Queens"}
+,{"spc_common":"Atlas cedar","health":"Good","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"Atlas cedar","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"bald cypress","health":"Fair","count_spc_common":"11","boroname":"Bronx"}
+,{"spc_common":"bald cypress","health":"Fair","count_spc_common":"90","boroname":"Brooklyn"}
+,{"spc_common":"bald cypress","health":"Fair","count_spc_common":"20","boroname":"Manhattan"}
+,{"spc_common":"bald cypress","health":"Fair","count_spc_common":"36","boroname":"Queens"}
+,{"spc_common":"bald cypress","health":"Fair","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"bald cypress","health":"Good","count_spc_common":"65","boroname":"Bronx"}
+,{"spc_common":"bald cypress","health":"Good","count_spc_common":"518","boroname":"Brooklyn"}
+,{"spc_common":"bald cypress","health":"Good","count_spc_common":"56","boroname":"Manhattan"}
+,{"spc_common":"bald cypress","health":"Good","count_spc_common":"264","boroname":"Queens"}
+,{"spc_common":"bald cypress","health":"Good","count_spc_common":"113","boroname":"Staten Island"}
+,{"spc_common":"bald cypress","health":"Poor","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"bald cypress","health":"Poor","count_spc_common":"37","boroname":"Brooklyn"}
+,{"spc_common":"bald cypress","health":"Poor","count_spc_common":"13","boroname":"Manhattan"}
+,{"spc_common":"bald cypress","health":"Poor","count_spc_common":"13","boroname":"Queens"}
+,{"spc_common":"bald cypress","health":"Poor","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"bigtooth aspen","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"bigtooth aspen","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"bigtooth aspen","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"bigtooth aspen","health":"Fair","count_spc_common":"8","boroname":"Queens"}
+,{"spc_common":"bigtooth aspen","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"bigtooth aspen","health":"Good","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"bigtooth aspen","health":"Good","count_spc_common":"16","boroname":"Brooklyn"}
+,{"spc_common":"bigtooth aspen","health":"Good","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"bigtooth aspen","health":"Good","count_spc_common":"23","boroname":"Queens"}
+,{"spc_common":"bigtooth aspen","health":"Good","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"bigtooth aspen","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"bigtooth aspen","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"bigtooth aspen","health":"Poor","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"black cherry","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"black cherry","health":"Fair","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"black cherry","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"black cherry","health":"Fair","count_spc_common":"59","boroname":"Queens"}
+,{"spc_common":"black cherry","health":"Fair","count_spc_common":"18","boroname":"Staten Island"}
+,{"spc_common":"black cherry","health":"Good","count_spc_common":"52","boroname":"Bronx"}
+,{"spc_common":"black cherry","health":"Good","count_spc_common":"125","boroname":"Brooklyn"}
+,{"spc_common":"black cherry","health":"Good","count_spc_common":"25","boroname":"Manhattan"}
+,{"spc_common":"black cherry","health":"Good","count_spc_common":"193","boroname":"Queens"}
+,{"spc_common":"black cherry","health":"Good","count_spc_common":"64","boroname":"Staten Island"}
+,{"spc_common":"black cherry","health":"Poor","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"black cherry","health":"Poor","count_spc_common":"7","boroname":"Brooklyn"}
+,{"spc_common":"black cherry","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"black cherry","health":"Poor","count_spc_common":"17","boroname":"Queens"}
+,{"spc_common":"black cherry","health":"Poor","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"blackgum","health":"Fair","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"blackgum","health":"Fair","count_spc_common":"22","boroname":"Brooklyn"}
+,{"spc_common":"blackgum","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"blackgum","health":"Fair","count_spc_common":"12","boroname":"Queens"}
+,{"spc_common":"blackgum","health":"Fair","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"blackgum","health":"Good","count_spc_common":"19","boroname":"Bronx"}
+,{"spc_common":"blackgum","health":"Good","count_spc_common":"94","boroname":"Brooklyn"}
+,{"spc_common":"blackgum","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"blackgum","health":"Good","count_spc_common":"58","boroname":"Queens"}
+,{"spc_common":"blackgum","health":"Good","count_spc_common":"44","boroname":"Staten Island"}
+,{"spc_common":"blackgum","health":"Poor","count_spc_common":"7","boroname":"Brooklyn"}
+,{"spc_common":"blackgum","health":"Poor","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"blackgum","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"black locust","health":"Fair","count_spc_common":"57","boroname":"Bronx"}
+,{"spc_common":"black locust","health":"Fair","count_spc_common":"91","boroname":"Brooklyn"}
+,{"spc_common":"black locust","health":"Fair","count_spc_common":"52","boroname":"Manhattan"}
+,{"spc_common":"black locust","health":"Fair","count_spc_common":"92","boroname":"Queens"}
+,{"spc_common":"black locust","health":"Fair","count_spc_common":"50","boroname":"Staten Island"}
+,{"spc_common":"black locust","health":"Good","count_spc_common":"286","boroname":"Bronx"}
+,{"spc_common":"black locust","health":"Good","count_spc_common":"342","boroname":"Brooklyn"}
+,{"spc_common":"black locust","health":"Good","count_spc_common":"201","boroname":"Manhattan"}
+,{"spc_common":"black locust","health":"Good","count_spc_common":"381","boroname":"Queens"}
+,{"spc_common":"black locust","health":"Good","count_spc_common":"179","boroname":"Staten Island"}
+,{"spc_common":"black locust","health":"Poor","count_spc_common":"11","boroname":"Bronx"}
+,{"spc_common":"black locust","health":"Poor","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"black locust","health":"Poor","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"black locust","health":"Poor","count_spc_common":"17","boroname":"Queens"}
+,{"spc_common":"black locust","health":"Poor","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"black maple","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"black maple","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"black maple","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"black maple","health":"Fair","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"black maple","health":"Fair","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"black maple","health":"Good","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"black maple","health":"Good","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"black maple","health":"Good","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"black maple","health":"Good","count_spc_common":"18","boroname":"Queens"}
+,{"spc_common":"black maple","health":"Good","count_spc_common":"25","boroname":"Staten Island"}
+,{"spc_common":"black maple","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"black maple","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"black maple","health":"Poor","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"black oak","health":"Fair","count_spc_common":"33","boroname":"Bronx"}
+,{"spc_common":"black oak","health":"Fair","count_spc_common":"69","boroname":"Brooklyn"}
+,{"spc_common":"black oak","health":"Fair","count_spc_common":"39","boroname":"Manhattan"}
+,{"spc_common":"black oak","health":"Fair","count_spc_common":"37","boroname":"Queens"}
+,{"spc_common":"black oak","health":"Fair","count_spc_common":"14","boroname":"Staten Island"}
+,{"spc_common":"black oak","health":"Good","count_spc_common":"184","boroname":"Bronx"}
+,{"spc_common":"black oak","health":"Good","count_spc_common":"358","boroname":"Brooklyn"}
+,{"spc_common":"black oak","health":"Good","count_spc_common":"144","boroname":"Manhattan"}
+,{"spc_common":"black oak","health":"Good","count_spc_common":"324","boroname":"Queens"}
+,{"spc_common":"black oak","health":"Good","count_spc_common":"82","boroname":"Staten Island"}
+,{"spc_common":"black oak","health":"Poor","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"black oak","health":"Poor","count_spc_common":"14","boroname":"Brooklyn"}
+,{"spc_common":"black oak","health":"Poor","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"black oak","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"black oak","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"black pine","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"black pine","health":"Fair","count_spc_common":"13","boroname":"Queens"}
+,{"spc_common":"black pine","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"black pine","health":"Good","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"black pine","health":"Good","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"black pine","health":"Good","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"black pine","health":"Good","count_spc_common":"9","boroname":"Queens"}
+,{"spc_common":"black pine","health":"Good","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"black pine","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"black pine","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"black walnut","health":"Fair","count_spc_common":"10","boroname":"Bronx"}
+,{"spc_common":"black walnut","health":"Fair","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"black walnut","health":"Fair","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"black walnut","health":"Fair","count_spc_common":"13","boroname":"Queens"}
+,{"spc_common":"black walnut","health":"Fair","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"black walnut","health":"Good","count_spc_common":"30","boroname":"Bronx"}
+,{"spc_common":"black walnut","health":"Good","count_spc_common":"72","boroname":"Brooklyn"}
+,{"spc_common":"black walnut","health":"Good","count_spc_common":"26","boroname":"Manhattan"}
+,{"spc_common":"black walnut","health":"Good","count_spc_common":"76","boroname":"Queens"}
+,{"spc_common":"black walnut","health":"Good","count_spc_common":"30","boroname":"Staten Island"}
+,{"spc_common":"black walnut","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"black walnut","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"black walnut","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"black walnut","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"black walnut","health":"Poor","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"blue spruce","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"blue spruce","health":"Fair","count_spc_common":"10","boroname":"Queens"}
+,{"spc_common":"blue spruce","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"blue spruce","health":"Good","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"blue spruce","health":"Good","count_spc_common":"15","boroname":"Brooklyn"}
+,{"spc_common":"blue spruce","health":"Good","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"blue spruce","health":"Good","count_spc_common":"47","boroname":"Queens"}
+,{"spc_common":"blue spruce","health":"Good","count_spc_common":"22","boroname":"Staten Island"}
+,{"spc_common":"blue spruce","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"blue spruce","health":"Poor","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"boxelder","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"boxelder","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"boxelder","health":"Fair","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"boxelder","health":"Fair","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"boxelder","health":"Good","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"boxelder","health":"Good","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"boxelder","health":"Good","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"boxelder","health":"Good","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"boxelder","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"boxelder","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"boxelder","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"boxelder","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"boxelder","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"bur oak","health":"Fair","count_spc_common":"15","boroname":"Bronx"}
+,{"spc_common":"bur oak","health":"Fair","count_spc_common":"26","boroname":"Brooklyn"}
+,{"spc_common":"bur oak","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"bur oak","health":"Fair","count_spc_common":"35","boroname":"Queens"}
+,{"spc_common":"bur oak","health":"Fair","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"bur oak","health":"Good","count_spc_common":"60","boroname":"Bronx"}
+,{"spc_common":"bur oak","health":"Good","count_spc_common":"122","boroname":"Brooklyn"}
+,{"spc_common":"bur oak","health":"Good","count_spc_common":"29","boroname":"Manhattan"}
+,{"spc_common":"bur oak","health":"Good","count_spc_common":"127","boroname":"Queens"}
+,{"spc_common":"bur oak","health":"Good","count_spc_common":"62","boroname":"Staten Island"}
+,{"spc_common":"bur oak","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"bur oak","health":"Poor","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"bur oak","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"bur oak","health":"Poor","count_spc_common":"8","boroname":"Queens"}
+,{"spc_common":"bur oak","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Callery pear","health":"Fair","count_spc_common":"508","boroname":"Bronx"}
+,{"spc_common":"Callery pear","health":"Fair","count_spc_common":"1082","boroname":"Brooklyn"}
+,{"spc_common":"Callery pear","health":"Fair","count_spc_common":"1474","boroname":"Manhattan"}
+,{"spc_common":"Callery pear","health":"Fair","count_spc_common":"2354","boroname":"Queens"}
+,{"spc_common":"Callery pear","health":"Fair","count_spc_common":"3351","boroname":"Staten Island"}
+,{"spc_common":"Callery pear","health":"Good","count_spc_common":"4336","boroname":"Bronx"}
+,{"spc_common":"Callery pear","health":"Good","count_spc_common":"7796","boroname":"Brooklyn"}
+,{"spc_common":"Callery pear","health":"Good","count_spc_common":"5382","boroname":"Manhattan"}
+,{"spc_common":"Callery pear","health":"Good","count_spc_common":"13745","boroname":"Queens"}
+,{"spc_common":"Callery pear","health":"Good","count_spc_common":"16814","boroname":"Staten Island"}
+,{"spc_common":"Callery pear","health":"Poor","count_spc_common":"103","boroname":"Bronx"}
+,{"spc_common":"Callery pear","health":"Poor","count_spc_common":"203","boroname":"Brooklyn"}
+,{"spc_common":"Callery pear","health":"Poor","count_spc_common":"441","boroname":"Manhattan"}
+,{"spc_common":"Callery pear","health":"Poor","count_spc_common":"448","boroname":"Queens"}
+,{"spc_common":"Callery pear","health":"Poor","count_spc_common":"894","boroname":"Staten Island"}
+,{"spc_common":"catalpa","health":"Fair","count_spc_common":"21","boroname":"Bronx"}
+,{"spc_common":"catalpa","health":"Fair","count_spc_common":"18","boroname":"Brooklyn"}
+,{"spc_common":"catalpa","health":"Fair","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"catalpa","health":"Fair","count_spc_common":"81","boroname":"Queens"}
+,{"spc_common":"catalpa","health":"Fair","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"catalpa","health":"Good","count_spc_common":"99","boroname":"Bronx"}
+,{"spc_common":"catalpa","health":"Good","count_spc_common":"52","boroname":"Brooklyn"}
+,{"spc_common":"catalpa","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"catalpa","health":"Good","count_spc_common":"197","boroname":"Queens"}
+,{"spc_common":"catalpa","health":"Good","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"catalpa","health":"Poor","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"catalpa","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"catalpa","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"catalpa","health":"Poor","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"catalpa","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"cherry","health":"Fair","count_spc_common":"538","boroname":"Bronx"}
+,{"spc_common":"cherry","health":"Fair","count_spc_common":"776","boroname":"Brooklyn"}
+,{"spc_common":"cherry","health":"Fair","count_spc_common":"142","boroname":"Manhattan"}
+,{"spc_common":"cherry","health":"Fair","count_spc_common":"1357","boroname":"Queens"}
+,{"spc_common":"cherry","health":"Fair","count_spc_common":"635","boroname":"Staten Island"}
+,{"spc_common":"cherry","health":"Good","count_spc_common":"3350","boroname":"Bronx"}
+,{"spc_common":"cherry","health":"Good","count_spc_common":"4653","boroname":"Brooklyn"}
+,{"spc_common":"cherry","health":"Good","count_spc_common":"674","boroname":"Manhattan"}
+,{"spc_common":"cherry","health":"Good","count_spc_common":"11652","boroname":"Queens"}
+,{"spc_common":"cherry","health":"Good","count_spc_common":"4197","boroname":"Staten Island"}
+,{"spc_common":"cherry","health":"Poor","count_spc_common":"204","boroname":"Bronx"}
+,{"spc_common":"cherry","health":"Poor","count_spc_common":"277","boroname":"Brooklyn"}
+,{"spc_common":"cherry","health":"Poor","count_spc_common":"53","boroname":"Manhattan"}
+,{"spc_common":"cherry","health":"Poor","count_spc_common":"488","boroname":"Queens"}
+,{"spc_common":"cherry","health":"Poor","count_spc_common":"283","boroname":"Staten Island"}
+,{"spc_common":"Chinese chestnut","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Chinese chestnut","health":"Fair","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"Chinese chestnut","health":"Fair","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"Chinese chestnut","health":"Fair","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"Chinese chestnut","health":"Fair","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"Chinese chestnut","health":"Good","count_spc_common":"17","boroname":"Bronx"}
+,{"spc_common":"Chinese chestnut","health":"Good","count_spc_common":"50","boroname":"Brooklyn"}
+,{"spc_common":"Chinese chestnut","health":"Good","count_spc_common":"11","boroname":"Manhattan"}
+,{"spc_common":"Chinese chestnut","health":"Good","count_spc_common":"51","boroname":"Queens"}
+,{"spc_common":"Chinese chestnut","health":"Good","count_spc_common":"21","boroname":"Staten Island"}
+,{"spc_common":"Chinese chestnut","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"Chinese elm","health":"Fair","count_spc_common":"188","boroname":"Bronx"}
+,{"spc_common":"Chinese elm","health":"Fair","count_spc_common":"209","boroname":"Brooklyn"}
+,{"spc_common":"Chinese elm","health":"Fair","count_spc_common":"139","boroname":"Manhattan"}
+,{"spc_common":"Chinese elm","health":"Fair","count_spc_common":"119","boroname":"Queens"}
+,{"spc_common":"Chinese elm","health":"Fair","count_spc_common":"36","boroname":"Staten Island"}
+,{"spc_common":"Chinese elm","health":"Good","count_spc_common":"1109","boroname":"Bronx"}
+,{"spc_common":"Chinese elm","health":"Good","count_spc_common":"1339","boroname":"Brooklyn"}
+,{"spc_common":"Chinese elm","health":"Good","count_spc_common":"604","boroname":"Manhattan"}
+,{"spc_common":"Chinese elm","health":"Good","count_spc_common":"868","boroname":"Queens"}
+,{"spc_common":"Chinese elm","health":"Good","count_spc_common":"573","boroname":"Staten Island"}
+,{"spc_common":"Chinese elm","health":"Poor","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"Chinese elm","health":"Poor","count_spc_common":"45","boroname":"Brooklyn"}
+,{"spc_common":"Chinese elm","health":"Poor","count_spc_common":"42","boroname":"Manhattan"}
+,{"spc_common":"Chinese elm","health":"Poor","count_spc_common":"33","boroname":"Queens"}
+,{"spc_common":"Chinese elm","health":"Poor","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"Chinese fringetree","health":"Fair","count_spc_common":"12","boroname":"Brooklyn"}
+,{"spc_common":"Chinese fringetree","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Chinese fringetree","health":"Fair","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"Chinese fringetree","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"Chinese fringetree","health":"Good","count_spc_common":"29","boroname":"Bronx"}
+,{"spc_common":"Chinese fringetree","health":"Good","count_spc_common":"40","boroname":"Brooklyn"}
+,{"spc_common":"Chinese fringetree","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Chinese fringetree","health":"Good","count_spc_common":"84","boroname":"Queens"}
+,{"spc_common":"Chinese fringetree","health":"Good","count_spc_common":"43","boroname":"Staten Island"}
+,{"spc_common":"Chinese fringetree","health":"Poor","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Chinese fringetree","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Chinese fringetree","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Chinese fringetree","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"Chinese tree lilac","health":"Fair","count_spc_common":"15","boroname":"Bronx"}
+,{"spc_common":"Chinese tree lilac","health":"Fair","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"Chinese tree lilac","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Chinese tree lilac","health":"Fair","count_spc_common":"20","boroname":"Queens"}
+,{"spc_common":"Chinese tree lilac","health":"Fair","count_spc_common":"15","boroname":"Staten Island"}
+,{"spc_common":"Chinese tree lilac","health":"Good","count_spc_common":"34","boroname":"Bronx"}
+,{"spc_common":"Chinese tree lilac","health":"Good","count_spc_common":"67","boroname":"Brooklyn"}
+,{"spc_common":"Chinese tree lilac","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"Chinese tree lilac","health":"Good","count_spc_common":"180","boroname":"Queens"}
+,{"spc_common":"Chinese tree lilac","health":"Good","count_spc_common":"88","boroname":"Staten Island"}
+,{"spc_common":"Chinese tree lilac","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"Chinese tree lilac","health":"Poor","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"Chinese tree lilac","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Chinese tree lilac","health":"Poor","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"Chinese tree lilac","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"cockspur hawthorn","health":"Fair","count_spc_common":"12","boroname":"Bronx"}
+,{"spc_common":"cockspur hawthorn","health":"Fair","count_spc_common":"16","boroname":"Brooklyn"}
+,{"spc_common":"cockspur hawthorn","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"cockspur hawthorn","health":"Fair","count_spc_common":"19","boroname":"Queens"}
+,{"spc_common":"cockspur hawthorn","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"cockspur hawthorn","health":"Good","count_spc_common":"38","boroname":"Bronx"}
+,{"spc_common":"cockspur hawthorn","health":"Good","count_spc_common":"56","boroname":"Brooklyn"}
+,{"spc_common":"cockspur hawthorn","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"cockspur hawthorn","health":"Good","count_spc_common":"94","boroname":"Queens"}
+,{"spc_common":"cockspur hawthorn","health":"Good","count_spc_common":"76","boroname":"Staten Island"}
+,{"spc_common":"cockspur hawthorn","health":"Poor","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"cockspur hawthorn","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"cockspur hawthorn","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"cockspur hawthorn","health":"Poor","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"common hackberry","health":"Fair","count_spc_common":"132","boroname":"Bronx"}
+,{"spc_common":"common hackberry","health":"Fair","count_spc_common":"102","boroname":"Brooklyn"}
+,{"spc_common":"common hackberry","health":"Fair","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"common hackberry","health":"Fair","count_spc_common":"82","boroname":"Queens"}
+,{"spc_common":"common hackberry","health":"Fair","count_spc_common":"38","boroname":"Staten Island"}
+,{"spc_common":"common hackberry","health":"Good","count_spc_common":"638","boroname":"Bronx"}
+,{"spc_common":"common hackberry","health":"Good","count_spc_common":"467","boroname":"Brooklyn"}
+,{"spc_common":"common hackberry","health":"Good","count_spc_common":"108","boroname":"Manhattan"}
+,{"spc_common":"common hackberry","health":"Good","count_spc_common":"519","boroname":"Queens"}
+,{"spc_common":"common hackberry","health":"Good","count_spc_common":"124","boroname":"Staten Island"}
+,{"spc_common":"common hackberry","health":"Poor","count_spc_common":"37","boroname":"Bronx"}
+,{"spc_common":"common hackberry","health":"Poor","count_spc_common":"34","boroname":"Brooklyn"}
+,{"spc_common":"common hackberry","health":"Poor","count_spc_common":"22","boroname":"Manhattan"}
+,{"spc_common":"common hackberry","health":"Poor","count_spc_common":"30","boroname":"Queens"}
+,{"spc_common":"common hackberry","health":"Poor","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"Cornelian cherry","health":"Fair","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Cornelian cherry","health":"Fair","count_spc_common":"52","boroname":"Brooklyn"}
+,{"spc_common":"Cornelian cherry","health":"Fair","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"Cornelian cherry","health":"Fair","count_spc_common":"55","boroname":"Queens"}
+,{"spc_common":"Cornelian cherry","health":"Fair","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"Cornelian cherry","health":"Good","count_spc_common":"154","boroname":"Bronx"}
+,{"spc_common":"Cornelian cherry","health":"Good","count_spc_common":"183","boroname":"Brooklyn"}
+,{"spc_common":"Cornelian cherry","health":"Good","count_spc_common":"21","boroname":"Manhattan"}
+,{"spc_common":"Cornelian cherry","health":"Good","count_spc_common":"259","boroname":"Queens"}
+,{"spc_common":"Cornelian cherry","health":"Good","count_spc_common":"264","boroname":"Staten Island"}
+,{"spc_common":"Cornelian cherry","health":"Poor","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Cornelian cherry","health":"Poor","count_spc_common":"16","boroname":"Brooklyn"}
+,{"spc_common":"Cornelian cherry","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Cornelian cherry","health":"Poor","count_spc_common":"13","boroname":"Queens"}
+,{"spc_common":"Cornelian cherry","health":"Poor","count_spc_common":"10","boroname":"Staten Island"}
+,{"spc_common":"crab apple","health":"Fair","count_spc_common":"69","boroname":"Bronx"}
+,{"spc_common":"crab apple","health":"Fair","count_spc_common":"89","boroname":"Brooklyn"}
+,{"spc_common":"crab apple","health":"Fair","count_spc_common":"35","boroname":"Manhattan"}
+,{"spc_common":"crab apple","health":"Fair","count_spc_common":"229","boroname":"Queens"}
+,{"spc_common":"crab apple","health":"Fair","count_spc_common":"64","boroname":"Staten Island"}
+,{"spc_common":"crab apple","health":"Good","count_spc_common":"420","boroname":"Bronx"}
+,{"spc_common":"crab apple","health":"Good","count_spc_common":"514","boroname":"Brooklyn"}
+,{"spc_common":"crab apple","health":"Good","count_spc_common":"371","boroname":"Manhattan"}
+,{"spc_common":"crab apple","health":"Good","count_spc_common":"1132","boroname":"Queens"}
+,{"spc_common":"crab apple","health":"Good","count_spc_common":"460","boroname":"Staten Island"}
+,{"spc_common":"crab apple","health":"Poor","count_spc_common":"18","boroname":"Bronx"}
+,{"spc_common":"crab apple","health":"Poor","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"crab apple","health":"Poor","count_spc_common":"31","boroname":"Manhattan"}
+,{"spc_common":"crab apple","health":"Poor","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"crab apple","health":"Poor","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"crepe myrtle","health":"Fair","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"crepe myrtle","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"crepe myrtle","health":"Fair","count_spc_common":"28","boroname":"Queens"}
+,{"spc_common":"crepe myrtle","health":"Fair","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"crepe myrtle","health":"Good","count_spc_common":"33","boroname":"Bronx"}
+,{"spc_common":"crepe myrtle","health":"Good","count_spc_common":"56","boroname":"Brooklyn"}
+,{"spc_common":"crepe myrtle","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"crepe myrtle","health":"Good","count_spc_common":"206","boroname":"Queens"}
+,{"spc_common":"crepe myrtle","health":"Good","count_spc_common":"71","boroname":"Staten Island"}
+,{"spc_common":"crepe myrtle","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"crepe myrtle","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"crepe myrtle","health":"Poor","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"crepe myrtle","health":"Poor","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"crimson king maple","health":"Fair","count_spc_common":"44","boroname":"Bronx"}
+,{"spc_common":"crimson king maple","health":"Fair","count_spc_common":"206","boroname":"Brooklyn"}
+,{"spc_common":"crimson king maple","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"crimson king maple","health":"Fair","count_spc_common":"574","boroname":"Queens"}
+,{"spc_common":"crimson king maple","health":"Fair","count_spc_common":"311","boroname":"Staten Island"}
+,{"spc_common":"crimson king maple","health":"Good","count_spc_common":"127","boroname":"Bronx"}
+,{"spc_common":"crimson king maple","health":"Good","count_spc_common":"674","boroname":"Brooklyn"}
+,{"spc_common":"crimson king maple","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"crimson king maple","health":"Good","count_spc_common":"2171","boroname":"Queens"}
+,{"spc_common":"crimson king maple","health":"Good","count_spc_common":"1363","boroname":"Staten Island"}
+,{"spc_common":"crimson king maple","health":"Poor","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"crimson king maple","health":"Poor","count_spc_common":"119","boroname":"Brooklyn"}
+,{"spc_common":"crimson king maple","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"crimson king maple","health":"Poor","count_spc_common":"158","boroname":"Queens"}
+,{"spc_common":"crimson king maple","health":"Poor","count_spc_common":"146","boroname":"Staten Island"}
+,{"spc_common":"cucumber magnolia","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"cucumber magnolia","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"cucumber magnolia","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"cucumber magnolia","health":"Fair","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"cucumber magnolia","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"cucumber magnolia","health":"Good","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"cucumber magnolia","health":"Good","count_spc_common":"42","boroname":"Brooklyn"}
+,{"spc_common":"cucumber magnolia","health":"Good","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"cucumber magnolia","health":"Good","count_spc_common":"44","boroname":"Queens"}
+,{"spc_common":"cucumber magnolia","health":"Good","count_spc_common":"34","boroname":"Staten Island"}
+,{"spc_common":"cucumber magnolia","health":"Poor","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"cucumber magnolia","health":"Poor","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"cucumber magnolia","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"cucumber magnolia","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"cucumber magnolia","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"dawn redwood","health":"Fair","count_spc_common":"69","boroname":"Bronx"}
+,{"spc_common":"dawn redwood","health":"Fair","count_spc_common":"168","boroname":"Brooklyn"}
+,{"spc_common":"dawn redwood","health":"Fair","count_spc_common":"46","boroname":"Manhattan"}
+,{"spc_common":"dawn redwood","health":"Fair","count_spc_common":"67","boroname":"Queens"}
+,{"spc_common":"dawn redwood","health":"Fair","count_spc_common":"45","boroname":"Staten Island"}
+,{"spc_common":"dawn redwood","health":"Good","count_spc_common":"283","boroname":"Bronx"}
+,{"spc_common":"dawn redwood","health":"Good","count_spc_common":"888","boroname":"Brooklyn"}
+,{"spc_common":"dawn redwood","health":"Good","count_spc_common":"121","boroname":"Manhattan"}
+,{"spc_common":"dawn redwood","health":"Good","count_spc_common":"787","boroname":"Queens"}
+,{"spc_common":"dawn redwood","health":"Good","count_spc_common":"347","boroname":"Staten Island"}
+,{"spc_common":"dawn redwood","health":"Poor","count_spc_common":"44","boroname":"Bronx"}
+,{"spc_common":"dawn redwood","health":"Poor","count_spc_common":"74","boroname":"Brooklyn"}
+,{"spc_common":"dawn redwood","health":"Poor","count_spc_common":"32","boroname":"Manhattan"}
+,{"spc_common":"dawn redwood","health":"Poor","count_spc_common":"20","boroname":"Queens"}
+,{"spc_common":"dawn redwood","health":"Poor","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"Douglas-fir","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"Douglas-fir","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Douglas-fir","health":"Fair","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"Douglas-fir","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Douglas-fir","health":"Good","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Douglas-fir","health":"Good","count_spc_common":"27","boroname":"Brooklyn"}
+,{"spc_common":"Douglas-fir","health":"Good","count_spc_common":"31","boroname":"Queens"}
+,{"spc_common":"Douglas-fir","health":"Good","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"Douglas-fir","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"eastern cottonwood","health":"Fair","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"eastern cottonwood","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"eastern cottonwood","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"eastern cottonwood","health":"Fair","count_spc_common":"12","boroname":"Queens"}
+,{"spc_common":"eastern cottonwood","health":"Fair","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"eastern cottonwood","health":"Good","count_spc_common":"38","boroname":"Bronx"}
+,{"spc_common":"eastern cottonwood","health":"Good","count_spc_common":"27","boroname":"Brooklyn"}
+,{"spc_common":"eastern cottonwood","health":"Good","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"eastern cottonwood","health":"Good","count_spc_common":"87","boroname":"Queens"}
+,{"spc_common":"eastern cottonwood","health":"Good","count_spc_common":"51","boroname":"Staten Island"}
+,{"spc_common":"eastern cottonwood","health":"Poor","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"eastern cottonwood","health":"Poor","count_spc_common":"7","boroname":"Brooklyn"}
+,{"spc_common":"eastern cottonwood","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"eastern cottonwood","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"eastern cottonwood","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"eastern hemlock","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"eastern hemlock","health":"Fair","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"eastern hemlock","health":"Fair","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"eastern hemlock","health":"Fair","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"eastern hemlock","health":"Good","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"eastern hemlock","health":"Good","count_spc_common":"24","boroname":"Brooklyn"}
+,{"spc_common":"eastern hemlock","health":"Good","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"eastern hemlock","health":"Good","count_spc_common":"18","boroname":"Queens"}
+,{"spc_common":"eastern hemlock","health":"Good","count_spc_common":"10","boroname":"Staten Island"}
+,{"spc_common":"eastern hemlock","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"eastern hemlock","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"eastern hemlock","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"eastern hemlock","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"eastern redbud","health":"Fair","count_spc_common":"87","boroname":"Bronx"}
+,{"spc_common":"eastern redbud","health":"Fair","count_spc_common":"168","boroname":"Brooklyn"}
+,{"spc_common":"eastern redbud","health":"Fair","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"eastern redbud","health":"Fair","count_spc_common":"210","boroname":"Queens"}
+,{"spc_common":"eastern redbud","health":"Fair","count_spc_common":"120","boroname":"Staten Island"}
+,{"spc_common":"eastern redbud","health":"Good","count_spc_common":"490","boroname":"Bronx"}
+,{"spc_common":"eastern redbud","health":"Good","count_spc_common":"563","boroname":"Brooklyn"}
+,{"spc_common":"eastern redbud","health":"Good","count_spc_common":"38","boroname":"Manhattan"}
+,{"spc_common":"eastern redbud","health":"Good","count_spc_common":"1064","boroname":"Queens"}
+,{"spc_common":"eastern redbud","health":"Good","count_spc_common":"772","boroname":"Staten Island"}
+,{"spc_common":"eastern redbud","health":"Poor","count_spc_common":"55","boroname":"Bronx"}
+,{"spc_common":"eastern redbud","health":"Poor","count_spc_common":"65","boroname":"Brooklyn"}
+,{"spc_common":"eastern redbud","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"eastern redbud","health":"Poor","count_spc_common":"84","boroname":"Queens"}
+,{"spc_common":"eastern redbud","health":"Poor","count_spc_common":"73","boroname":"Staten Island"}
+,{"spc_common":"eastern redcedar","health":"Fair","count_spc_common":"10","boroname":"Bronx"}
+,{"spc_common":"eastern redcedar","health":"Fair","count_spc_common":"34","boroname":"Brooklyn"}
+,{"spc_common":"eastern redcedar","health":"Fair","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"eastern redcedar","health":"Fair","count_spc_common":"54","boroname":"Queens"}
+,{"spc_common":"eastern redcedar","health":"Fair","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"eastern redcedar","health":"Good","count_spc_common":"144","boroname":"Bronx"}
+,{"spc_common":"eastern redcedar","health":"Good","count_spc_common":"248","boroname":"Brooklyn"}
+,{"spc_common":"eastern redcedar","health":"Good","count_spc_common":"34","boroname":"Manhattan"}
+,{"spc_common":"eastern redcedar","health":"Good","count_spc_common":"454","boroname":"Queens"}
+,{"spc_common":"eastern redcedar","health":"Good","count_spc_common":"66","boroname":"Staten Island"}
+,{"spc_common":"eastern redcedar","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"eastern redcedar","health":"Poor","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"eastern redcedar","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"eastern redcedar","health":"Poor","count_spc_common":"24","boroname":"Queens"}
+,{"spc_common":"eastern redcedar","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"empress tree","health":"Fair","count_spc_common":"15","boroname":"Bronx"}
+,{"spc_common":"empress tree","health":"Fair","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"empress tree","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"empress tree","health":"Fair","count_spc_common":"16","boroname":"Queens"}
+,{"spc_common":"empress tree","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"empress tree","health":"Good","count_spc_common":"38","boroname":"Bronx"}
+,{"spc_common":"empress tree","health":"Good","count_spc_common":"24","boroname":"Brooklyn"}
+,{"spc_common":"empress tree","health":"Good","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"empress tree","health":"Good","count_spc_common":"75","boroname":"Queens"}
+,{"spc_common":"empress tree","health":"Good","count_spc_common":"33","boroname":"Staten Island"}
+,{"spc_common":"empress tree","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"empress tree","health":"Poor","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"empress tree","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"empress tree","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"empress tree","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"English oak","health":"Fair","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"English oak","health":"Fair","count_spc_common":"60","boroname":"Brooklyn"}
+,{"spc_common":"English oak","health":"Fair","count_spc_common":"42","boroname":"Manhattan"}
+,{"spc_common":"English oak","health":"Fair","count_spc_common":"66","boroname":"Queens"}
+,{"spc_common":"English oak","health":"Fair","count_spc_common":"45","boroname":"Staten Island"}
+,{"spc_common":"English oak","health":"Good","count_spc_common":"196","boroname":"Bronx"}
+,{"spc_common":"English oak","health":"Good","count_spc_common":"482","boroname":"Brooklyn"}
+,{"spc_common":"English oak","health":"Good","count_spc_common":"150","boroname":"Manhattan"}
+,{"spc_common":"English oak","health":"Good","count_spc_common":"378","boroname":"Queens"}
+,{"spc_common":"English oak","health":"Good","count_spc_common":"157","boroname":"Staten Island"}
+,{"spc_common":"English oak","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"English oak","health":"Poor","count_spc_common":"17","boroname":"Brooklyn"}
+,{"spc_common":"English oak","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"English oak","health":"Poor","count_spc_common":"17","boroname":"Queens"}
+,{"spc_common":"English oak","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"European alder","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"European alder","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"European alder","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"European alder","health":"Fair","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"European alder","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"European alder","health":"Good","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"European alder","health":"Good","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"European alder","health":"Good","count_spc_common":"12","boroname":"Queens"}
+,{"spc_common":"European alder","health":"Good","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"European alder","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"European beech","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"European beech","health":"Fair","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"European beech","health":"Fair","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"European beech","health":"Good","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"European beech","health":"Good","count_spc_common":"31","boroname":"Brooklyn"}
+,{"spc_common":"European beech","health":"Good","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"European beech","health":"Good","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"European beech","health":"Good","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"European beech","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"European beech","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"European beech","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"European hornbeam","health":"Fair","count_spc_common":"89","boroname":"Bronx"}
+,{"spc_common":"European hornbeam","health":"Fair","count_spc_common":"101","boroname":"Brooklyn"}
+,{"spc_common":"European hornbeam","health":"Fair","count_spc_common":"27","boroname":"Manhattan"}
+,{"spc_common":"European hornbeam","health":"Fair","count_spc_common":"59","boroname":"Queens"}
+,{"spc_common":"European hornbeam","health":"Fair","count_spc_common":"20","boroname":"Staten Island"}
+,{"spc_common":"European hornbeam","health":"Good","count_spc_common":"336","boroname":"Bronx"}
+,{"spc_common":"European hornbeam","health":"Good","count_spc_common":"350","boroname":"Brooklyn"}
+,{"spc_common":"European hornbeam","health":"Good","count_spc_common":"126","boroname":"Manhattan"}
+,{"spc_common":"European hornbeam","health":"Good","count_spc_common":"703","boroname":"Queens"}
+,{"spc_common":"European hornbeam","health":"Good","count_spc_common":"158","boroname":"Staten Island"}
+,{"spc_common":"European hornbeam","health":"Poor","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"European hornbeam","health":"Poor","count_spc_common":"43","boroname":"Brooklyn"}
+,{"spc_common":"European hornbeam","health":"Poor","count_spc_common":"14","boroname":"Manhattan"}
+,{"spc_common":"European hornbeam","health":"Poor","count_spc_common":"41","boroname":"Queens"}
+,{"spc_common":"European hornbeam","health":"Poor","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"false cypress","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"false cypress","health":"Fair","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"false cypress","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"false cypress","health":"Good","count_spc_common":"12","boroname":"Bronx"}
+,{"spc_common":"false cypress","health":"Good","count_spc_common":"31","boroname":"Brooklyn"}
+,{"spc_common":"false cypress","health":"Good","count_spc_common":"46","boroname":"Queens"}
+,{"spc_common":"false cypress","health":"Good","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"false cypress","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"false cypress","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"flowering dogwood","health":"Fair","count_spc_common":"22","boroname":"Bronx"}
+,{"spc_common":"flowering dogwood","health":"Fair","count_spc_common":"57","boroname":"Brooklyn"}
+,{"spc_common":"flowering dogwood","health":"Fair","count_spc_common":"25","boroname":"Manhattan"}
+,{"spc_common":"flowering dogwood","health":"Fair","count_spc_common":"125","boroname":"Queens"}
+,{"spc_common":"flowering dogwood","health":"Fair","count_spc_common":"44","boroname":"Staten Island"}
+,{"spc_common":"flowering dogwood","health":"Good","count_spc_common":"124","boroname":"Bronx"}
+,{"spc_common":"flowering dogwood","health":"Good","count_spc_common":"276","boroname":"Brooklyn"}
+,{"spc_common":"flowering dogwood","health":"Good","count_spc_common":"37","boroname":"Manhattan"}
+,{"spc_common":"flowering dogwood","health":"Good","count_spc_common":"513","boroname":"Queens"}
+,{"spc_common":"flowering dogwood","health":"Good","count_spc_common":"233","boroname":"Staten Island"}
+,{"spc_common":"flowering dogwood","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"flowering dogwood","health":"Poor","count_spc_common":"27","boroname":"Brooklyn"}
+,{"spc_common":"flowering dogwood","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"flowering dogwood","health":"Poor","count_spc_common":"46","boroname":"Queens"}
+,{"spc_common":"flowering dogwood","health":"Poor","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"ginkgo","health":"Fair","count_spc_common":"304","boroname":"Bronx"}
+,{"spc_common":"ginkgo","health":"Fair","count_spc_common":"642","boroname":"Brooklyn"}
+,{"spc_common":"ginkgo","health":"Fair","count_spc_common":"982","boroname":"Manhattan"}
+,{"spc_common":"ginkgo","health":"Fair","count_spc_common":"745","boroname":"Queens"}
+,{"spc_common":"ginkgo","health":"Fair","count_spc_common":"107","boroname":"Staten Island"}
+,{"spc_common":"ginkgo","health":"Good","count_spc_common":"2253","boroname":"Bronx"}
+,{"spc_common":"ginkgo","health":"Good","count_spc_common":"4754","boroname":"Brooklyn"}
+,{"spc_common":"ginkgo","health":"Good","count_spc_common":"4386","boroname":"Manhattan"}
+,{"spc_common":"ginkgo","health":"Good","count_spc_common":"4984","boroname":"Queens"}
+,{"spc_common":"ginkgo","health":"Good","count_spc_common":"749","boroname":"Staten Island"}
+,{"spc_common":"ginkgo","health":"Poor","count_spc_common":"128","boroname":"Bronx"}
+,{"spc_common":"ginkgo","health":"Poor","count_spc_common":"199","boroname":"Brooklyn"}
+,{"spc_common":"ginkgo","health":"Poor","count_spc_common":"491","boroname":"Manhattan"}
+,{"spc_common":"ginkgo","health":"Poor","count_spc_common":"242","boroname":"Queens"}
+,{"spc_common":"ginkgo","health":"Poor","count_spc_common":"58","boroname":"Staten Island"}
+,{"spc_common":"golden raintree","health":"Fair","count_spc_common":"76","boroname":"Bronx"}
+,{"spc_common":"golden raintree","health":"Fair","count_spc_common":"140","boroname":"Brooklyn"}
+,{"spc_common":"golden raintree","health":"Fair","count_spc_common":"34","boroname":"Manhattan"}
+,{"spc_common":"golden raintree","health":"Fair","count_spc_common":"171","boroname":"Queens"}
+,{"spc_common":"golden raintree","health":"Fair","count_spc_common":"79","boroname":"Staten Island"}
+,{"spc_common":"golden raintree","health":"Good","count_spc_common":"423","boroname":"Bronx"}
+,{"spc_common":"golden raintree","health":"Good","count_spc_common":"775","boroname":"Brooklyn"}
+,{"spc_common":"golden raintree","health":"Good","count_spc_common":"318","boroname":"Manhattan"}
+,{"spc_common":"golden raintree","health":"Good","count_spc_common":"1083","boroname":"Queens"}
+,{"spc_common":"golden raintree","health":"Good","count_spc_common":"500","boroname":"Staten Island"}
+,{"spc_common":"golden raintree","health":"Poor","count_spc_common":"19","boroname":"Bronx"}
+,{"spc_common":"golden raintree","health":"Poor","count_spc_common":"26","boroname":"Brooklyn"}
+,{"spc_common":"golden raintree","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"golden raintree","health":"Poor","count_spc_common":"50","boroname":"Queens"}
+,{"spc_common":"golden raintree","health":"Poor","count_spc_common":"18","boroname":"Staten Island"}
+,{"spc_common":"green ash","health":"Fair","count_spc_common":"286","boroname":"Bronx"}
+,{"spc_common":"green ash","health":"Fair","count_spc_common":"620","boroname":"Brooklyn"}
+,{"spc_common":"green ash","health":"Fair","count_spc_common":"150","boroname":"Manhattan"}
+,{"spc_common":"green ash","health":"Fair","count_spc_common":"1063","boroname":"Queens"}
+,{"spc_common":"green ash","health":"Fair","count_spc_common":"480","boroname":"Staten Island"}
+,{"spc_common":"green ash","health":"Good","count_spc_common":"1533","boroname":"Bronx"}
+,{"spc_common":"green ash","health":"Good","count_spc_common":"3111","boroname":"Brooklyn"}
+,{"spc_common":"green ash","health":"Good","count_spc_common":"575","boroname":"Manhattan"}
+,{"spc_common":"green ash","health":"Good","count_spc_common":"6156","boroname":"Queens"}
+,{"spc_common":"green ash","health":"Good","count_spc_common":"1848","boroname":"Staten Island"}
+,{"spc_common":"green ash","health":"Poor","count_spc_common":"70","boroname":"Bronx"}
+,{"spc_common":"green ash","health":"Poor","count_spc_common":"77","boroname":"Brooklyn"}
+,{"spc_common":"green ash","health":"Poor","count_spc_common":"45","boroname":"Manhattan"}
+,{"spc_common":"green ash","health":"Poor","count_spc_common":"170","boroname":"Queens"}
+,{"spc_common":"green ash","health":"Poor","count_spc_common":"66","boroname":"Staten Island"}
+,{"spc_common":"green ash","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"hardy rubber tree","health":"Fair","count_spc_common":"17","boroname":"Bronx"}
+,{"spc_common":"hardy rubber tree","health":"Fair","count_spc_common":"36","boroname":"Brooklyn"}
+,{"spc_common":"hardy rubber tree","health":"Fair","count_spc_common":"11","boroname":"Manhattan"}
+,{"spc_common":"hardy rubber tree","health":"Fair","count_spc_common":"40","boroname":"Queens"}
+,{"spc_common":"hardy rubber tree","health":"Fair","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"hardy rubber tree","health":"Good","count_spc_common":"81","boroname":"Bronx"}
+,{"spc_common":"hardy rubber tree","health":"Good","count_spc_common":"322","boroname":"Brooklyn"}
+,{"spc_common":"hardy rubber tree","health":"Good","count_spc_common":"47","boroname":"Manhattan"}
+,{"spc_common":"hardy rubber tree","health":"Good","count_spc_common":"209","boroname":"Queens"}
+,{"spc_common":"hardy rubber tree","health":"Good","count_spc_common":"81","boroname":"Staten Island"}
+,{"spc_common":"hardy rubber tree","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"hardy rubber tree","health":"Poor","count_spc_common":"19","boroname":"Brooklyn"}
+,{"spc_common":"hardy rubber tree","health":"Poor","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"hardy rubber tree","health":"Poor","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"hardy rubber tree","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"hawthorn","health":"Fair","count_spc_common":"78","boroname":"Bronx"}
+,{"spc_common":"hawthorn","health":"Fair","count_spc_common":"112","boroname":"Brooklyn"}
+,{"spc_common":"hawthorn","health":"Fair","count_spc_common":"29","boroname":"Manhattan"}
+,{"spc_common":"hawthorn","health":"Fair","count_spc_common":"162","boroname":"Queens"}
+,{"spc_common":"hawthorn","health":"Fair","count_spc_common":"89","boroname":"Staten Island"}
+,{"spc_common":"hawthorn","health":"Good","count_spc_common":"375","boroname":"Bronx"}
+,{"spc_common":"hawthorn","health":"Good","count_spc_common":"418","boroname":"Brooklyn"}
+,{"spc_common":"hawthorn","health":"Good","count_spc_common":"181","boroname":"Manhattan"}
+,{"spc_common":"hawthorn","health":"Good","count_spc_common":"834","boroname":"Queens"}
+,{"spc_common":"hawthorn","health":"Good","count_spc_common":"517","boroname":"Staten Island"}
+,{"spc_common":"hawthorn","health":"Poor","count_spc_common":"19","boroname":"Bronx"}
+,{"spc_common":"hawthorn","health":"Poor","count_spc_common":"63","boroname":"Brooklyn"}
+,{"spc_common":"hawthorn","health":"Poor","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"hawthorn","health":"Poor","count_spc_common":"62","boroname":"Queens"}
+,{"spc_common":"hawthorn","health":"Poor","count_spc_common":"40","boroname":"Staten Island"}
+,{"spc_common":"hedge maple","health":"Fair","count_spc_common":"93","boroname":"Bronx"}
+,{"spc_common":"hedge maple","health":"Fair","count_spc_common":"100","boroname":"Brooklyn"}
+,{"spc_common":"hedge maple","health":"Fair","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"hedge maple","health":"Fair","count_spc_common":"120","boroname":"Queens"}
+,{"spc_common":"hedge maple","health":"Fair","count_spc_common":"51","boroname":"Staten Island"}
+,{"spc_common":"hedge maple","health":"Good","count_spc_common":"671","boroname":"Bronx"}
+,{"spc_common":"hedge maple","health":"Good","count_spc_common":"458","boroname":"Brooklyn"}
+,{"spc_common":"hedge maple","health":"Good","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"hedge maple","health":"Good","count_spc_common":"536","boroname":"Queens"}
+,{"spc_common":"hedge maple","health":"Good","count_spc_common":"410","boroname":"Staten Island"}
+,{"spc_common":"hedge maple","health":"Poor","count_spc_common":"34","boroname":"Bronx"}
+,{"spc_common":"hedge maple","health":"Poor","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"hedge maple","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"hedge maple","health":"Poor","count_spc_common":"19","boroname":"Queens"}
+,{"spc_common":"hedge maple","health":"Poor","count_spc_common":"15","boroname":"Staten Island"}
+,{"spc_common":"Himalayan cedar","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"Himalayan cedar","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Himalayan cedar","health":"Fair","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"Himalayan cedar","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"Himalayan cedar","health":"Good","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"Himalayan cedar","health":"Good","count_spc_common":"11","boroname":"Brooklyn"}
+,{"spc_common":"Himalayan cedar","health":"Good","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"Himalayan cedar","health":"Good","count_spc_common":"24","boroname":"Queens"}
+,{"spc_common":"Himalayan cedar","health":"Good","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"Himalayan cedar","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Himalayan cedar","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"holly","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"holly","health":"Fair","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"holly","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"holly","health":"Fair","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"holly","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"holly","health":"Good","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"holly","health":"Good","count_spc_common":"29","boroname":"Brooklyn"}
+,{"spc_common":"holly","health":"Good","count_spc_common":"23","boroname":"Manhattan"}
+,{"spc_common":"holly","health":"Good","count_spc_common":"44","boroname":"Queens"}
+,{"spc_common":"holly","health":"Good","count_spc_common":"13","boroname":"Staten Island"}
+,{"spc_common":"holly","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"holly","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"holly","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"holly","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"holly","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"honeylocust","health":"Fair","count_spc_common":"949","boroname":"Bronx"}
+,{"spc_common":"honeylocust","health":"Fair","count_spc_common":"2363","boroname":"Brooklyn"}
+,{"spc_common":"honeylocust","health":"Fair","count_spc_common":"2012","boroname":"Manhattan"}
+,{"spc_common":"honeylocust","health":"Fair","count_spc_common":"2680","boroname":"Queens"}
+,{"spc_common":"honeylocust","health":"Fair","count_spc_common":"568","boroname":"Staten Island"}
+,{"spc_common":"honeylocust","health":"Good","count_spc_common":"8575","boroname":"Bronx"}
+,{"spc_common":"honeylocust","health":"Good","count_spc_common":"14263","boroname":"Brooklyn"}
+,{"spc_common":"honeylocust","health":"Good","count_spc_common":"10958","boroname":"Manhattan"}
+,{"spc_common":"honeylocust","health":"Good","count_spc_common":"17211","boroname":"Queens"}
+,{"spc_common":"honeylocust","health":"Good","count_spc_common":"3494","boroname":"Staten Island"}
+,{"spc_common":"honeylocust","health":"Poor","count_spc_common":"167","boroname":"Bronx"}
+,{"spc_common":"honeylocust","health":"Poor","count_spc_common":"295","boroname":"Brooklyn"}
+,{"spc_common":"honeylocust","health":"Poor","count_spc_common":"205","boroname":"Manhattan"}
+,{"spc_common":"honeylocust","health":"Poor","count_spc_common":"399","boroname":"Queens"}
+,{"spc_common":"honeylocust","health":"Poor","count_spc_common":"124","boroname":"Staten Island"}
+,{"spc_common":"honeylocust","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"horse chestnut","health":"Fair","count_spc_common":"23","boroname":"Bronx"}
+,{"spc_common":"horse chestnut","health":"Fair","count_spc_common":"50","boroname":"Brooklyn"}
+,{"spc_common":"horse chestnut","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"horse chestnut","health":"Fair","count_spc_common":"108","boroname":"Queens"}
+,{"spc_common":"horse chestnut","health":"Fair","count_spc_common":"30","boroname":"Staten Island"}
+,{"spc_common":"horse chestnut","health":"Good","count_spc_common":"66","boroname":"Bronx"}
+,{"spc_common":"horse chestnut","health":"Good","count_spc_common":"146","boroname":"Brooklyn"}
+,{"spc_common":"horse chestnut","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"horse chestnut","health":"Good","count_spc_common":"429","boroname":"Queens"}
+,{"spc_common":"horse chestnut","health":"Good","count_spc_common":"142","boroname":"Staten Island"}
+,{"spc_common":"horse chestnut","health":"Poor","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"horse chestnut","health":"Poor","count_spc_common":"27","boroname":"Brooklyn"}
+,{"spc_common":"horse chestnut","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"horse chestnut","health":"Poor","count_spc_common":"37","boroname":"Queens"}
+,{"spc_common":"horse chestnut","health":"Poor","count_spc_common":"14","boroname":"Staten Island"}
+,{"spc_common":"Japanese hornbeam","health":"Fair","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Japanese hornbeam","health":"Fair","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"Japanese hornbeam","health":"Fair","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"Japanese hornbeam","health":"Fair","count_spc_common":"16","boroname":"Queens"}
+,{"spc_common":"Japanese hornbeam","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"Japanese hornbeam","health":"Good","count_spc_common":"62","boroname":"Bronx"}
+,{"spc_common":"Japanese hornbeam","health":"Good","count_spc_common":"112","boroname":"Brooklyn"}
+,{"spc_common":"Japanese hornbeam","health":"Good","count_spc_common":"47","boroname":"Manhattan"}
+,{"spc_common":"Japanese hornbeam","health":"Good","count_spc_common":"80","boroname":"Queens"}
+,{"spc_common":"Japanese hornbeam","health":"Good","count_spc_common":"37","boroname":"Staten Island"}
+,{"spc_common":"Japanese hornbeam","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"Japanese hornbeam","health":"Poor","count_spc_common":"14","boroname":"Brooklyn"}
+,{"spc_common":"Japanese hornbeam","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"Japanese hornbeam","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"Japanese hornbeam","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Japanese maple","health":"Fair","count_spc_common":"20","boroname":"Bronx"}
+,{"spc_common":"Japanese maple","health":"Fair","count_spc_common":"22","boroname":"Brooklyn"}
+,{"spc_common":"Japanese maple","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Japanese maple","health":"Fair","count_spc_common":"122","boroname":"Queens"}
+,{"spc_common":"Japanese maple","health":"Fair","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"Japanese maple","health":"Good","count_spc_common":"62","boroname":"Bronx"}
+,{"spc_common":"Japanese maple","health":"Good","count_spc_common":"83","boroname":"Brooklyn"}
+,{"spc_common":"Japanese maple","health":"Good","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"Japanese maple","health":"Good","count_spc_common":"604","boroname":"Queens"}
+,{"spc_common":"Japanese maple","health":"Good","count_spc_common":"133","boroname":"Staten Island"}
+,{"spc_common":"Japanese maple","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"Japanese maple","health":"Poor","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"Japanese maple","health":"Poor","count_spc_common":"34","boroname":"Queens"}
+,{"spc_common":"Japanese maple","health":"Poor","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"Japanese snowbell","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"Japanese snowbell","health":"Fair","count_spc_common":"22","boroname":"Brooklyn"}
+,{"spc_common":"Japanese snowbell","health":"Fair","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"Japanese snowbell","health":"Fair","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"Japanese snowbell","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"Japanese snowbell","health":"Good","count_spc_common":"41","boroname":"Bronx"}
+,{"spc_common":"Japanese snowbell","health":"Good","count_spc_common":"57","boroname":"Brooklyn"}
+,{"spc_common":"Japanese snowbell","health":"Good","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"Japanese snowbell","health":"Good","count_spc_common":"160","boroname":"Queens"}
+,{"spc_common":"Japanese snowbell","health":"Good","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"Japanese snowbell","health":"Poor","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Japanese snowbell","health":"Poor","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"Japanese snowbell","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"Japanese snowbell","health":"Poor","count_spc_common":"9","boroname":"Queens"}
+,{"spc_common":"Japanese snowbell","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Japanese tree lilac","health":"Fair","count_spc_common":"91","boroname":"Bronx"}
+,{"spc_common":"Japanese tree lilac","health":"Fair","count_spc_common":"197","boroname":"Brooklyn"}
+,{"spc_common":"Japanese tree lilac","health":"Fair","count_spc_common":"22","boroname":"Manhattan"}
+,{"spc_common":"Japanese tree lilac","health":"Fair","count_spc_common":"295","boroname":"Queens"}
+,{"spc_common":"Japanese tree lilac","health":"Fair","count_spc_common":"98","boroname":"Staten Island"}
+,{"spc_common":"Japanese tree lilac","health":"Good","count_spc_common":"464","boroname":"Bronx"}
+,{"spc_common":"Japanese tree lilac","health":"Good","count_spc_common":"733","boroname":"Brooklyn"}
+,{"spc_common":"Japanese tree lilac","health":"Good","count_spc_common":"93","boroname":"Manhattan"}
+,{"spc_common":"Japanese tree lilac","health":"Good","count_spc_common":"1591","boroname":"Queens"}
+,{"spc_common":"Japanese tree lilac","health":"Good","count_spc_common":"764","boroname":"Staten Island"}
+,{"spc_common":"Japanese tree lilac","health":"Poor","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"Japanese tree lilac","health":"Poor","count_spc_common":"75","boroname":"Brooklyn"}
+,{"spc_common":"Japanese tree lilac","health":"Poor","count_spc_common":"14","boroname":"Manhattan"}
+,{"spc_common":"Japanese tree lilac","health":"Poor","count_spc_common":"78","boroname":"Queens"}
+,{"spc_common":"Japanese tree lilac","health":"Poor","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"Japanese zelkova","health":"Fair","count_spc_common":"544","boroname":"Bronx"}
+,{"spc_common":"Japanese zelkova","health":"Fair","count_spc_common":"1015","boroname":"Brooklyn"}
+,{"spc_common":"Japanese zelkova","health":"Fair","count_spc_common":"619","boroname":"Manhattan"}
+,{"spc_common":"Japanese zelkova","health":"Fair","count_spc_common":"779","boroname":"Queens"}
+,{"spc_common":"Japanese zelkova","health":"Fair","count_spc_common":"234","boroname":"Staten Island"}
+,{"spc_common":"Japanese zelkova","health":"Good","count_spc_common":"3962","boroname":"Bronx"}
+,{"spc_common":"Japanese zelkova","health":"Good","count_spc_common":"8426","boroname":"Brooklyn"}
+,{"spc_common":"Japanese zelkova","health":"Good","count_spc_common":"2773","boroname":"Manhattan"}
+,{"spc_common":"Japanese zelkova","health":"Good","count_spc_common":"8051","boroname":"Queens"}
+,{"spc_common":"Japanese zelkova","health":"Good","count_spc_common":"2073","boroname":"Staten Island"}
+,{"spc_common":"Japanese zelkova","health":"Poor","count_spc_common":"132","boroname":"Bronx"}
+,{"spc_common":"Japanese zelkova","health":"Poor","count_spc_common":"218","boroname":"Brooklyn"}
+,{"spc_common":"Japanese zelkova","health":"Poor","count_spc_common":"204","boroname":"Manhattan"}
+,{"spc_common":"Japanese zelkova","health":"Poor","count_spc_common":"157","boroname":"Queens"}
+,{"spc_common":"Japanese zelkova","health":"Poor","count_spc_common":"71","boroname":"Staten Island"}
+,{"spc_common":"katsura tree","health":"Fair","count_spc_common":"41","boroname":"Bronx"}
+,{"spc_common":"katsura tree","health":"Fair","count_spc_common":"67","boroname":"Brooklyn"}
+,{"spc_common":"katsura tree","health":"Fair","count_spc_common":"11","boroname":"Manhattan"}
+,{"spc_common":"katsura tree","health":"Fair","count_spc_common":"85","boroname":"Queens"}
+,{"spc_common":"katsura tree","health":"Fair","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"katsura tree","health":"Good","count_spc_common":"80","boroname":"Bronx"}
+,{"spc_common":"katsura tree","health":"Good","count_spc_common":"163","boroname":"Brooklyn"}
+,{"spc_common":"katsura tree","health":"Good","count_spc_common":"20","boroname":"Manhattan"}
+,{"spc_common":"katsura tree","health":"Good","count_spc_common":"239","boroname":"Queens"}
+,{"spc_common":"katsura tree","health":"Good","count_spc_common":"79","boroname":"Staten Island"}
+,{"spc_common":"katsura tree","health":"Poor","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"katsura tree","health":"Poor","count_spc_common":"35","boroname":"Brooklyn"}
+,{"spc_common":"katsura tree","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"katsura tree","health":"Poor","count_spc_common":"40","boroname":"Queens"}
+,{"spc_common":"katsura tree","health":"Poor","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"Kentucky coffeetree","health":"Fair","count_spc_common":"79","boroname":"Bronx"}
+,{"spc_common":"Kentucky coffeetree","health":"Fair","count_spc_common":"127","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky coffeetree","health":"Fair","count_spc_common":"43","boroname":"Manhattan"}
+,{"spc_common":"Kentucky coffeetree","health":"Fair","count_spc_common":"100","boroname":"Queens"}
+,{"spc_common":"Kentucky coffeetree","health":"Fair","count_spc_common":"44","boroname":"Staten Island"}
+,{"spc_common":"Kentucky coffeetree","health":"Good","count_spc_common":"352","boroname":"Bronx"}
+,{"spc_common":"Kentucky coffeetree","health":"Good","count_spc_common":"1007","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky coffeetree","health":"Good","count_spc_common":"296","boroname":"Manhattan"}
+,{"spc_common":"Kentucky coffeetree","health":"Good","count_spc_common":"884","boroname":"Queens"}
+,{"spc_common":"Kentucky coffeetree","health":"Good","count_spc_common":"296","boroname":"Staten Island"}
+,{"spc_common":"Kentucky coffeetree","health":"Poor","count_spc_common":"21","boroname":"Bronx"}
+,{"spc_common":"Kentucky coffeetree","health":"Poor","count_spc_common":"42","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky coffeetree","health":"Poor","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"Kentucky coffeetree","health":"Poor","count_spc_common":"52","boroname":"Queens"}
+,{"spc_common":"Kentucky coffeetree","health":"Poor","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"Kentucky yellowwood","health":"Fair","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"Kentucky yellowwood","health":"Fair","count_spc_common":"29","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky yellowwood","health":"Fair","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"Kentucky yellowwood","health":"Fair","count_spc_common":"22","boroname":"Queens"}
+,{"spc_common":"Kentucky yellowwood","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"Kentucky yellowwood","health":"Good","count_spc_common":"70","boroname":"Bronx"}
+,{"spc_common":"Kentucky yellowwood","health":"Good","count_spc_common":"81","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky yellowwood","health":"Good","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"Kentucky yellowwood","health":"Good","count_spc_common":"157","boroname":"Queens"}
+,{"spc_common":"Kentucky yellowwood","health":"Good","count_spc_common":"54","boroname":"Staten Island"}
+,{"spc_common":"Kentucky yellowwood","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"Kentucky yellowwood","health":"Poor","count_spc_common":"14","boroname":"Brooklyn"}
+,{"spc_common":"Kentucky yellowwood","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"Kentucky yellowwood","health":"Poor","count_spc_common":"8","boroname":"Queens"}
+,{"spc_common":"Kentucky yellowwood","health":"Poor","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"kousa dogwood","health":"Fair","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"kousa dogwood","health":"Fair","count_spc_common":"11","boroname":"Brooklyn"}
+,{"spc_common":"kousa dogwood","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"kousa dogwood","health":"Fair","count_spc_common":"19","boroname":"Queens"}
+,{"spc_common":"kousa dogwood","health":"Fair","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"kousa dogwood","health":"Good","count_spc_common":"34","boroname":"Bronx"}
+,{"spc_common":"kousa dogwood","health":"Good","count_spc_common":"59","boroname":"Brooklyn"}
+,{"spc_common":"kousa dogwood","health":"Good","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"kousa dogwood","health":"Good","count_spc_common":"97","boroname":"Queens"}
+,{"spc_common":"kousa dogwood","health":"Good","count_spc_common":"35","boroname":"Staten Island"}
+,{"spc_common":"kousa dogwood","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"kousa dogwood","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"kousa dogwood","health":"Poor","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"kousa dogwood","health":"Poor","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"littleleaf linden","health":"Fair","count_spc_common":"615","boroname":"Bronx"}
+,{"spc_common":"littleleaf linden","health":"Fair","count_spc_common":"1310","boroname":"Brooklyn"}
+,{"spc_common":"littleleaf linden","health":"Fair","count_spc_common":"796","boroname":"Manhattan"}
+,{"spc_common":"littleleaf linden","health":"Fair","count_spc_common":"1502","boroname":"Queens"}
+,{"spc_common":"littleleaf linden","health":"Fair","count_spc_common":"217","boroname":"Staten Island"}
+,{"spc_common":"littleleaf linden","health":"Good","count_spc_common":"3102","boroname":"Bronx"}
+,{"spc_common":"littleleaf linden","health":"Good","count_spc_common":"7099","boroname":"Brooklyn"}
+,{"spc_common":"littleleaf linden","health":"Good","count_spc_common":"2076","boroname":"Manhattan"}
+,{"spc_common":"littleleaf linden","health":"Good","count_spc_common":"9912","boroname":"Queens"}
+,{"spc_common":"littleleaf linden","health":"Good","count_spc_common":"1393","boroname":"Staten Island"}
+,{"spc_common":"littleleaf linden","health":"Poor","count_spc_common":"200","boroname":"Bronx"}
+,{"spc_common":"littleleaf linden","health":"Poor","count_spc_common":"494","boroname":"Brooklyn"}
+,{"spc_common":"littleleaf linden","health":"Poor","count_spc_common":"461","boroname":"Manhattan"}
+,{"spc_common":"littleleaf linden","health":"Poor","count_spc_common":"488","boroname":"Queens"}
+,{"spc_common":"littleleaf linden","health":"Poor","count_spc_common":"77","boroname":"Staten Island"}
+,{"spc_common":"London planetree","health":"Fair","count_spc_common":"1015","boroname":"Bronx"}
+,{"spc_common":"London planetree","health":"Fair","count_spc_common":"4745","boroname":"Brooklyn"}
+,{"spc_common":"London planetree","health":"Fair","count_spc_common":"1144","boroname":"Manhattan"}
+,{"spc_common":"London planetree","health":"Fair","count_spc_common":"3663","boroname":"Queens"}
+,{"spc_common":"London planetree","health":"Fair","count_spc_common":"938","boroname":"Staten Island"}
+,{"spc_common":"London planetree","health":"Good","count_spc_common":"6280","boroname":"Bronx"}
+,{"spc_common":"London planetree","health":"Good","count_spc_common":"29370","boroname":"Brooklyn"}
+,{"spc_common":"London planetree","health":"Good","count_spc_common":"2597","boroname":"Manhattan"}
+,{"spc_common":"London planetree","health":"Good","count_spc_common":"26792","boroname":"Queens"}
+,{"spc_common":"London planetree","health":"Good","count_spc_common":"8272","boroname":"Staten Island"}
+,{"spc_common":"London planetree","health":"Poor","count_spc_common":"216","boroname":"Bronx"}
+,{"spc_common":"London planetree","health":"Poor","count_spc_common":"771","boroname":"Brooklyn"}
+,{"spc_common":"London planetree","health":"Poor","count_spc_common":"381","boroname":"Manhattan"}
+,{"spc_common":"London planetree","health":"Poor","count_spc_common":"656","boroname":"Queens"}
+,{"spc_common":"London planetree","health":"Poor","count_spc_common":"174","boroname":"Staten Island"}
+,{"spc_common":"magnolia","health":"Fair","count_spc_common":"14","boroname":"Bronx"}
+,{"spc_common":"magnolia","health":"Fair","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"magnolia","health":"Fair","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"magnolia","health":"Fair","count_spc_common":"34","boroname":"Queens"}
+,{"spc_common":"magnolia","health":"Fair","count_spc_common":"12","boroname":"Staten Island"}
+,{"spc_common":"magnolia","health":"Good","count_spc_common":"44","boroname":"Bronx"}
+,{"spc_common":"magnolia","health":"Good","count_spc_common":"64","boroname":"Brooklyn"}
+,{"spc_common":"magnolia","health":"Good","count_spc_common":"94","boroname":"Manhattan"}
+,{"spc_common":"magnolia","health":"Good","count_spc_common":"267","boroname":"Queens"}
+,{"spc_common":"magnolia","health":"Good","count_spc_common":"108","boroname":"Staten Island"}
+,{"spc_common":"magnolia","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"magnolia","health":"Poor","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"magnolia","health":"Poor","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"magnolia","health":"Poor","count_spc_common":"16","boroname":"Queens"}
+,{"spc_common":"magnolia","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"maple","health":"Fair","count_spc_common":"243","boroname":"Bronx"}
+,{"spc_common":"maple","health":"Fair","count_spc_common":"95","boroname":"Brooklyn"}
+,{"spc_common":"maple","health":"Fair","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"maple","health":"Fair","count_spc_common":"770","boroname":"Queens"}
+,{"spc_common":"maple","health":"Fair","count_spc_common":"616","boroname":"Staten Island"}
+,{"spc_common":"maple","health":"Good","count_spc_common":"650","boroname":"Bronx"}
+,{"spc_common":"maple","health":"Good","count_spc_common":"322","boroname":"Brooklyn"}
+,{"spc_common":"maple","health":"Good","count_spc_common":"16","boroname":"Manhattan"}
+,{"spc_common":"maple","health":"Good","count_spc_common":"2005","boroname":"Queens"}
+,{"spc_common":"maple","health":"Good","count_spc_common":"1715","boroname":"Staten Island"}
+,{"spc_common":"maple","health":"Poor","count_spc_common":"102","boroname":"Bronx"}
+,{"spc_common":"maple","health":"Poor","count_spc_common":"28","boroname":"Brooklyn"}
+,{"spc_common":"maple","health":"Poor","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"maple","health":"Poor","count_spc_common":"217","boroname":"Queens"}
+,{"spc_common":"maple","health":"Poor","count_spc_common":"280","boroname":"Staten Island"}
+,{"spc_common":"mimosa","health":"Fair","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"mimosa","health":"Fair","count_spc_common":"15","boroname":"Brooklyn"}
+,{"spc_common":"mimosa","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"mimosa","health":"Fair","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"mimosa","health":"Fair","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"mimosa","health":"Good","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"mimosa","health":"Good","count_spc_common":"66","boroname":"Brooklyn"}
+,{"spc_common":"mimosa","health":"Good","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"mimosa","health":"Good","count_spc_common":"37","boroname":"Queens"}
+,{"spc_common":"mimosa","health":"Good","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"mimosa","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"mimosa","health":"Poor","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"mimosa","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"mulberry","health":"Fair","count_spc_common":"31","boroname":"Bronx"}
+,{"spc_common":"mulberry","health":"Fair","count_spc_common":"36","boroname":"Brooklyn"}
+,{"spc_common":"mulberry","health":"Fair","count_spc_common":"15","boroname":"Manhattan"}
+,{"spc_common":"mulberry","health":"Fair","count_spc_common":"107","boroname":"Queens"}
+,{"spc_common":"mulberry","health":"Fair","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"mulberry","health":"Good","count_spc_common":"115","boroname":"Bronx"}
+,{"spc_common":"mulberry","health":"Good","count_spc_common":"160","boroname":"Brooklyn"}
+,{"spc_common":"mulberry","health":"Good","count_spc_common":"48","boroname":"Manhattan"}
+,{"spc_common":"mulberry","health":"Good","count_spc_common":"445","boroname":"Queens"}
+,{"spc_common":"mulberry","health":"Good","count_spc_common":"109","boroname":"Staten Island"}
+,{"spc_common":"mulberry","health":"Poor","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"mulberry","health":"Poor","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"mulberry","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"mulberry","health":"Poor","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"mulberry","health":"Poor","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"northern red oak","health":"Fair","count_spc_common":"221","boroname":"Bronx"}
+,{"spc_common":"northern red oak","health":"Fair","count_spc_common":"409","boroname":"Brooklyn"}
+,{"spc_common":"northern red oak","health":"Fair","count_spc_common":"266","boroname":"Manhattan"}
+,{"spc_common":"northern red oak","health":"Fair","count_spc_common":"305","boroname":"Queens"}
+,{"spc_common":"northern red oak","health":"Fair","count_spc_common":"108","boroname":"Staten Island"}
+,{"spc_common":"northern red oak","health":"Good","count_spc_common":"1217","boroname":"Bronx"}
+,{"spc_common":"northern red oak","health":"Good","count_spc_common":"1968","boroname":"Brooklyn"}
+,{"spc_common":"northern red oak","health":"Good","count_spc_common":"820","boroname":"Manhattan"}
+,{"spc_common":"northern red oak","health":"Good","count_spc_common":"2333","boroname":"Queens"}
+,{"spc_common":"northern red oak","health":"Good","count_spc_common":"479","boroname":"Staten Island"}
+,{"spc_common":"northern red oak","health":"Poor","count_spc_common":"45","boroname":"Bronx"}
+,{"spc_common":"northern red oak","health":"Poor","count_spc_common":"91","boroname":"Brooklyn"}
+,{"spc_common":"northern red oak","health":"Poor","count_spc_common":"57","boroname":"Manhattan"}
+,{"spc_common":"northern red oak","health":"Poor","count_spc_common":"59","boroname":"Queens"}
+,{"spc_common":"northern red oak","health":"Poor","count_spc_common":"22","boroname":"Staten Island"}
+,{"spc_common":"Norway maple","health":"Fair","count_spc_common":"773","boroname":"Bronx"}
+,{"spc_common":"Norway maple","health":"Fair","count_spc_common":"1906","boroname":"Brooklyn"}
+,{"spc_common":"Norway maple","health":"Fair","count_spc_common":"93","boroname":"Manhattan"}
+,{"spc_common":"Norway maple","health":"Fair","count_spc_common":"5694","boroname":"Queens"}
+,{"spc_common":"Norway maple","health":"Fair","count_spc_common":"696","boroname":"Staten Island"}
+,{"spc_common":"Norway maple","health":"Good","count_spc_common":"2342","boroname":"Bronx"}
+,{"spc_common":"Norway maple","health":"Good","count_spc_common":"4210","boroname":"Brooklyn"}
+,{"spc_common":"Norway maple","health":"Good","count_spc_common":"157","boroname":"Manhattan"}
+,{"spc_common":"Norway maple","health":"Good","count_spc_common":"11378","boroname":"Queens"}
+,{"spc_common":"Norway maple","health":"Good","count_spc_common":"3161","boroname":"Staten Island"}
+,{"spc_common":"Norway maple","health":"Poor","count_spc_common":"261","boroname":"Bronx"}
+,{"spc_common":"Norway maple","health":"Poor","count_spc_common":"873","boroname":"Brooklyn"}
+,{"spc_common":"Norway maple","health":"Poor","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"Norway maple","health":"Poor","count_spc_common":"2335","boroname":"Queens"}
+,{"spc_common":"Norway maple","health":"Poor","count_spc_common":"270","boroname":"Staten Island"}
+,{"spc_common":"Norway spruce","health":"Fair","count_spc_common":"18","boroname":"Bronx"}
+,{"spc_common":"Norway spruce","health":"Fair","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"Norway spruce","health":"Fair","count_spc_common":"30","boroname":"Queens"}
+,{"spc_common":"Norway spruce","health":"Fair","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"Norway spruce","health":"Good","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"Norway spruce","health":"Good","count_spc_common":"53","boroname":"Brooklyn"}
+,{"spc_common":"Norway spruce","health":"Good","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Norway spruce","health":"Good","count_spc_common":"150","boroname":"Queens"}
+,{"spc_common":"Norway spruce","health":"Good","count_spc_common":"42","boroname":"Staten Island"}
+,{"spc_common":"Norway spruce","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"Norway spruce","health":"Poor","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"Norway spruce","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Norway spruce","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"Norway spruce","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Ohio buckeye","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Ohio buckeye","health":"Fair","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"Ohio buckeye","health":"Fair","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Ohio buckeye","health":"Fair","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"Ohio buckeye","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Ohio buckeye","health":"Good","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Ohio buckeye","health":"Good","count_spc_common":"14","boroname":"Brooklyn"}
+,{"spc_common":"Ohio buckeye","health":"Good","count_spc_common":"17","boroname":"Manhattan"}
+,{"spc_common":"Ohio buckeye","health":"Good","count_spc_common":"15","boroname":"Queens"}
+,{"spc_common":"Ohio buckeye","health":"Good","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"Ohio buckeye","health":"Poor","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Ohio buckeye","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"Ohio buckeye","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"Oklahoma redbud","health":"Fair","count_spc_common":"12","boroname":"Bronx"}
+,{"spc_common":"Oklahoma redbud","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"Oklahoma redbud","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"Oklahoma redbud","health":"Fair","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"Oklahoma redbud","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Oklahoma redbud","health":"Good","count_spc_common":"32","boroname":"Bronx"}
+,{"spc_common":"Oklahoma redbud","health":"Good","count_spc_common":"44","boroname":"Brooklyn"}
+,{"spc_common":"Oklahoma redbud","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"Oklahoma redbud","health":"Good","count_spc_common":"65","boroname":"Queens"}
+,{"spc_common":"Oklahoma redbud","health":"Good","count_spc_common":"27","boroname":"Staten Island"}
+,{"spc_common":"Oklahoma redbud","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"Oklahoma redbud","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Oklahoma redbud","health":"Poor","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"Oklahoma redbud","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Osage-orange","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"Osage-orange","health":"Fair","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"Osage-orange","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Osage-orange","health":"Good","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Osage-orange","health":"Good","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"Osage-orange","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Osage-orange","health":"Good","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"Osage-orange","health":"Good","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"pagoda dogwood","health":"Fair","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"pagoda dogwood","health":"Fair","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"pagoda dogwood","health":"Fair","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"pagoda dogwood","health":"Fair","count_spc_common":"16","boroname":"Queens"}
+,{"spc_common":"pagoda dogwood","health":"Fair","count_spc_common":"8","boroname":"Staten Island"}
+,{"spc_common":"pagoda dogwood","health":"Good","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"pagoda dogwood","health":"Good","count_spc_common":"65","boroname":"Brooklyn"}
+,{"spc_common":"pagoda dogwood","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"pagoda dogwood","health":"Good","count_spc_common":"62","boroname":"Queens"}
+,{"spc_common":"pagoda dogwood","health":"Good","count_spc_common":"72","boroname":"Staten Island"}
+,{"spc_common":"pagoda dogwood","health":"Poor","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"pagoda dogwood","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"pagoda dogwood","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"pagoda dogwood","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"paperbark maple","health":"Fair","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"paperbark maple","health":"Fair","count_spc_common":"13","boroname":"Brooklyn"}
+,{"spc_common":"paperbark maple","health":"Fair","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"paperbark maple","health":"Fair","count_spc_common":"14","boroname":"Queens"}
+,{"spc_common":"paperbark maple","health":"Fair","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"paperbark maple","health":"Good","count_spc_common":"28","boroname":"Bronx"}
+,{"spc_common":"paperbark maple","health":"Good","count_spc_common":"41","boroname":"Brooklyn"}
+,{"spc_common":"paperbark maple","health":"Good","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"paperbark maple","health":"Good","count_spc_common":"52","boroname":"Queens"}
+,{"spc_common":"paperbark maple","health":"Good","count_spc_common":"33","boroname":"Staten Island"}
+,{"spc_common":"paperbark maple","health":"Poor","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"paperbark maple","health":"Poor","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"paperbark maple","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"paperbark maple","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"paper birch","health":"Fair","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"paper birch","health":"Fair","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"paper birch","health":"Fair","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"paper birch","health":"Fair","count_spc_common":"21","boroname":"Queens"}
+,{"spc_common":"paper birch","health":"Fair","count_spc_common":"19","boroname":"Staten Island"}
+,{"spc_common":"paper birch","health":"Good","count_spc_common":"45","boroname":"Bronx"}
+,{"spc_common":"paper birch","health":"Good","count_spc_common":"106","boroname":"Brooklyn"}
+,{"spc_common":"paper birch","health":"Good","count_spc_common":"32","boroname":"Manhattan"}
+,{"spc_common":"paper birch","health":"Good","count_spc_common":"138","boroname":"Queens"}
+,{"spc_common":"paper birch","health":"Good","count_spc_common":"99","boroname":"Staten Island"}
+,{"spc_common":"paper birch","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"paper birch","health":"Poor","count_spc_common":"5","boroname":"Brooklyn"}
+,{"spc_common":"paper birch","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"paper birch","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"paper birch","health":"Poor","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"Persian ironwood","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"Persian ironwood","health":"Fair","count_spc_common":"12","boroname":"Brooklyn"}
+,{"spc_common":"Persian ironwood","health":"Fair","count_spc_common":"22","boroname":"Queens"}
+,{"spc_common":"Persian ironwood","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"Persian ironwood","health":"Good","count_spc_common":"23","boroname":"Bronx"}
+,{"spc_common":"Persian ironwood","health":"Good","count_spc_common":"53","boroname":"Brooklyn"}
+,{"spc_common":"Persian ironwood","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Persian ironwood","health":"Good","count_spc_common":"125","boroname":"Queens"}
+,{"spc_common":"Persian ironwood","health":"Good","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"Persian ironwood","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"Persian ironwood","health":"Poor","count_spc_common":"10","boroname":"Queens"}
+,{"spc_common":"Persian ironwood","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"pignut hickory","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"pignut hickory","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"pignut hickory","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"pignut hickory","health":"Fair","count_spc_common":"9","boroname":"Queens"}
+,{"spc_common":"pignut hickory","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"pignut hickory","health":"Good","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"pignut hickory","health":"Good","count_spc_common":"13","boroname":"Brooklyn"}
+,{"spc_common":"pignut hickory","health":"Good","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"pignut hickory","health":"Good","count_spc_common":"15","boroname":"Staten Island"}
+,{"spc_common":"pignut hickory","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"pignut hickory","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"pignut hickory","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"pine","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"pine","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"pine","health":"Fair","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"pine","health":"Fair","count_spc_common":"21","boroname":"Queens"}
+,{"spc_common":"pine","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"pine","health":"Good","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"pine","health":"Good","count_spc_common":"36","boroname":"Brooklyn"}
+,{"spc_common":"pine","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"pine","health":"Good","count_spc_common":"168","boroname":"Queens"}
+,{"spc_common":"pine","health":"Good","count_spc_common":"24","boroname":"Staten Island"}
+,{"spc_common":"pine","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"pine","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"pine","health":"Poor","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"pine","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"pin oak","health":"Fair","count_spc_common":"679","boroname":"Bronx"}
+,{"spc_common":"pin oak","health":"Fair","count_spc_common":"1518","boroname":"Brooklyn"}
+,{"spc_common":"pin oak","health":"Fair","count_spc_common":"719","boroname":"Manhattan"}
+,{"spc_common":"pin oak","health":"Fair","count_spc_common":"2610","boroname":"Queens"}
+,{"spc_common":"pin oak","health":"Fair","count_spc_common":"868","boroname":"Staten Island"}
+,{"spc_common":"pin oak","health":"Good","count_spc_common":"5626","boroname":"Bronx"}
+,{"spc_common":"pin oak","health":"Good","count_spc_common":"10531","boroname":"Brooklyn"}
+,{"spc_common":"pin oak","health":"Good","count_spc_common":"3731","boroname":"Manhattan"}
+,{"spc_common":"pin oak","health":"Good","count_spc_common":"19499","boroname":"Queens"}
+,{"spc_common":"pin oak","health":"Good","count_spc_common":"6169","boroname":"Staten Island"}
+,{"spc_common":"pin oak","health":"Poor","count_spc_common":"140","boroname":"Bronx"}
+,{"spc_common":"pin oak","health":"Poor","count_spc_common":"294","boroname":"Brooklyn"}
+,{"spc_common":"pin oak","health":"Poor","count_spc_common":"134","boroname":"Manhattan"}
+,{"spc_common":"pin oak","health":"Poor","count_spc_common":"501","boroname":"Queens"}
+,{"spc_common":"pin oak","health":"Poor","count_spc_common":"166","boroname":"Staten Island"}
+,{"spc_common":"pitch pine","health":"Good","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"pitch pine","health":"Good","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"pitch pine","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"pitch pine","health":"Good","count_spc_common":"10","boroname":"Queens"}
+,{"spc_common":"pitch pine","health":"Good","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"pond cypress","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"pond cypress","health":"Fair","count_spc_common":"26","boroname":"Brooklyn"}
+,{"spc_common":"pond cypress","health":"Fair","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"pond cypress","health":"Fair","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"pond cypress","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"pond cypress","health":"Good","count_spc_common":"24","boroname":"Bronx"}
+,{"spc_common":"pond cypress","health":"Good","count_spc_common":"60","boroname":"Brooklyn"}
+,{"spc_common":"pond cypress","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"pond cypress","health":"Good","count_spc_common":"26","boroname":"Queens"}
+,{"spc_common":"pond cypress","health":"Good","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"pond cypress","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"pond cypress","health":"Poor","count_spc_common":"16","boroname":"Brooklyn"}
+,{"spc_common":"pond cypress","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"pond cypress","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"purple-leaf plum","health":"Fair","count_spc_common":"95","boroname":"Bronx"}
+,{"spc_common":"purple-leaf plum","health":"Fair","count_spc_common":"255","boroname":"Brooklyn"}
+,{"spc_common":"purple-leaf plum","health":"Fair","count_spc_common":"22","boroname":"Manhattan"}
+,{"spc_common":"purple-leaf plum","health":"Fair","count_spc_common":"445","boroname":"Queens"}
+,{"spc_common":"purple-leaf plum","health":"Fair","count_spc_common":"275","boroname":"Staten Island"}
+,{"spc_common":"purple-leaf plum","health":"Good","count_spc_common":"635","boroname":"Bronx"}
+,{"spc_common":"purple-leaf plum","health":"Good","count_spc_common":"884","boroname":"Brooklyn"}
+,{"spc_common":"purple-leaf plum","health":"Good","count_spc_common":"81","boroname":"Manhattan"}
+,{"spc_common":"purple-leaf plum","health":"Good","count_spc_common":"2440","boroname":"Queens"}
+,{"spc_common":"purple-leaf plum","health":"Good","count_spc_common":"1405","boroname":"Staten Island"}
+,{"spc_common":"purple-leaf plum","health":"Poor","count_spc_common":"44","boroname":"Bronx"}
+,{"spc_common":"purple-leaf plum","health":"Poor","count_spc_common":"59","boroname":"Brooklyn"}
+,{"spc_common":"purple-leaf plum","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"purple-leaf plum","health":"Poor","count_spc_common":"150","boroname":"Queens"}
+,{"spc_common":"purple-leaf plum","health":"Poor","count_spc_common":"82","boroname":"Staten Island"}
+,{"spc_common":"quaking aspen","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"quaking aspen","health":"Fair","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"quaking aspen","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"quaking aspen","health":"Fair","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"quaking aspen","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"quaking aspen","health":"Good","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"quaking aspen","health":"Good","count_spc_common":"17","boroname":"Brooklyn"}
+,{"spc_common":"quaking aspen","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"quaking aspen","health":"Good","count_spc_common":"31","boroname":"Queens"}
+,{"spc_common":"quaking aspen","health":"Good","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"quaking aspen","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"quaking aspen","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"quaking aspen","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"red horse chestnut","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"red horse chestnut","health":"Fair","count_spc_common":"7","boroname":"Brooklyn"}
+,{"spc_common":"red horse chestnut","health":"Fair","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"red horse chestnut","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"red horse chestnut","health":"Good","count_spc_common":"10","boroname":"Bronx"}
+,{"spc_common":"red horse chestnut","health":"Good","count_spc_common":"11","boroname":"Brooklyn"}
+,{"spc_common":"red horse chestnut","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"red horse chestnut","health":"Good","count_spc_common":"54","boroname":"Queens"}
+,{"spc_common":"red horse chestnut","health":"Good","count_spc_common":"21","boroname":"Staten Island"}
+,{"spc_common":"red horse chestnut","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"red horse chestnut","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"red maple","health":"Fair","count_spc_common":"360","boroname":"Bronx"}
+,{"spc_common":"red maple","health":"Fair","count_spc_common":"450","boroname":"Brooklyn"}
+,{"spc_common":"red maple","health":"Fair","count_spc_common":"92","boroname":"Manhattan"}
+,{"spc_common":"red maple","health":"Fair","count_spc_common":"953","boroname":"Queens"}
+,{"spc_common":"red maple","health":"Fair","count_spc_common":"1056","boroname":"Staten Island"}
+,{"spc_common":"red maple","health":"Good","count_spc_common":"1726","boroname":"Bronx"}
+,{"spc_common":"red maple","health":"Good","count_spc_common":"1769","boroname":"Brooklyn"}
+,{"spc_common":"red maple","health":"Good","count_spc_common":"224","boroname":"Manhattan"}
+,{"spc_common":"red maple","health":"Good","count_spc_common":"3687","boroname":"Queens"}
+,{"spc_common":"red maple","health":"Good","count_spc_common":"6033","boroname":"Staten Island"}
+,{"spc_common":"red maple","health":"Poor","count_spc_common":"112","boroname":"Bronx"}
+,{"spc_common":"red maple","health":"Poor","count_spc_common":"165","boroname":"Brooklyn"}
+,{"spc_common":"red maple","health":"Poor","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"red maple","health":"Poor","count_spc_common":"295","boroname":"Queens"}
+,{"spc_common":"red maple","health":"Poor","count_spc_common":"284","boroname":"Staten Island"}
+,{"spc_common":"red pine","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"red pine","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"red pine","health":"Fair","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"red pine","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"red pine","health":"Good","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"red pine","health":"Good","count_spc_common":"24","boroname":"Brooklyn"}
+,{"spc_common":"red pine","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"red pine","health":"Good","count_spc_common":"45","boroname":"Queens"}
+,{"spc_common":"red pine","health":"Good","count_spc_common":"16","boroname":"Staten Island"}
+,{"spc_common":"red pine","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"river birch","health":"Fair","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"river birch","health":"Fair","count_spc_common":"14","boroname":"Brooklyn"}
+,{"spc_common":"river birch","health":"Fair","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"river birch","health":"Fair","count_spc_common":"28","boroname":"Queens"}
+,{"spc_common":"river birch","health":"Fair","count_spc_common":"25","boroname":"Staten Island"}
+,{"spc_common":"river birch","health":"Good","count_spc_common":"42","boroname":"Bronx"}
+,{"spc_common":"river birch","health":"Good","count_spc_common":"101","boroname":"Brooklyn"}
+,{"spc_common":"river birch","health":"Good","count_spc_common":"20","boroname":"Manhattan"}
+,{"spc_common":"river birch","health":"Good","count_spc_common":"169","boroname":"Queens"}
+,{"spc_common":"river birch","health":"Good","count_spc_common":"127","boroname":"Staten Island"}
+,{"spc_common":"river birch","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"river birch","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"river birch","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"river birch","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"river birch","health":"Poor","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"sassafras","health":"Fair","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"sassafras","health":"Fair","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"sassafras","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"sassafras","health":"Fair","count_spc_common":"15","boroname":"Queens"}
+,{"spc_common":"sassafras","health":"Fair","count_spc_common":"6","boroname":"Staten Island"}
+,{"spc_common":"sassafras","health":"Good","count_spc_common":"12","boroname":"Bronx"}
+,{"spc_common":"sassafras","health":"Good","count_spc_common":"35","boroname":"Brooklyn"}
+,{"spc_common":"sassafras","health":"Good","count_spc_common":"11","boroname":"Manhattan"}
+,{"spc_common":"sassafras","health":"Good","count_spc_common":"53","boroname":"Queens"}
+,{"spc_common":"sassafras","health":"Good","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"sassafras","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"sassafras","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"sassafras","health":"Poor","count_spc_common":"5","boroname":"Queens"}
+,{"spc_common":"sassafras","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"sawtooth oak","health":"Fair","count_spc_common":"29","boroname":"Bronx"}
+,{"spc_common":"sawtooth oak","health":"Fair","count_spc_common":"104","boroname":"Brooklyn"}
+,{"spc_common":"sawtooth oak","health":"Fair","count_spc_common":"48","boroname":"Manhattan"}
+,{"spc_common":"sawtooth oak","health":"Fair","count_spc_common":"37","boroname":"Queens"}
+,{"spc_common":"sawtooth oak","health":"Fair","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"sawtooth oak","health":"Good","count_spc_common":"330","boroname":"Bronx"}
+,{"spc_common":"sawtooth oak","health":"Good","count_spc_common":"658","boroname":"Brooklyn"}
+,{"spc_common":"sawtooth oak","health":"Good","count_spc_common":"301","boroname":"Manhattan"}
+,{"spc_common":"sawtooth oak","health":"Good","count_spc_common":"528","boroname":"Queens"}
+,{"spc_common":"sawtooth oak","health":"Good","count_spc_common":"150","boroname":"Staten Island"}
+,{"spc_common":"sawtooth oak","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"sawtooth oak","health":"Poor","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"sawtooth oak","health":"Poor","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"sawtooth oak","health":"Poor","count_spc_common":"14","boroname":"Queens"}
+,{"spc_common":"sawtooth oak","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"scarlet oak","health":"Fair","count_spc_common":"41","boroname":"Bronx"}
+,{"spc_common":"scarlet oak","health":"Fair","count_spc_common":"193","boroname":"Brooklyn"}
+,{"spc_common":"scarlet oak","health":"Fair","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"scarlet oak","health":"Fair","count_spc_common":"51","boroname":"Queens"}
+,{"spc_common":"scarlet oak","health":"Fair","count_spc_common":"14","boroname":"Staten Island"}
+,{"spc_common":"scarlet oak","health":"Good","count_spc_common":"248","boroname":"Bronx"}
+,{"spc_common":"scarlet oak","health":"Good","count_spc_common":"483","boroname":"Brooklyn"}
+,{"spc_common":"scarlet oak","health":"Good","count_spc_common":"56","boroname":"Manhattan"}
+,{"spc_common":"scarlet oak","health":"Good","count_spc_common":"219","boroname":"Queens"}
+,{"spc_common":"scarlet oak","health":"Good","count_spc_common":"79","boroname":"Staten Island"}
+,{"spc_common":"scarlet oak","health":"Poor","count_spc_common":"13","boroname":"Bronx"}
+,{"spc_common":"scarlet oak","health":"Poor","count_spc_common":"44","boroname":"Brooklyn"}
+,{"spc_common":"scarlet oak","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"scarlet oak","health":"Poor","count_spc_common":"6","boroname":"Queens"}
+,{"spc_common":"scarlet oak","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"'Schubert' chokecherry","health":"Fair","count_spc_common":"90","boroname":"Bronx"}
+,{"spc_common":"'Schubert' chokecherry","health":"Fair","count_spc_common":"211","boroname":"Brooklyn"}
+,{"spc_common":"'Schubert' chokecherry","health":"Fair","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"'Schubert' chokecherry","health":"Fair","count_spc_common":"290","boroname":"Queens"}
+,{"spc_common":"'Schubert' chokecherry","health":"Fair","count_spc_common":"86","boroname":"Staten Island"}
+,{"spc_common":"'Schubert' chokecherry","health":"Good","count_spc_common":"456","boroname":"Bronx"}
+,{"spc_common":"'Schubert' chokecherry","health":"Good","count_spc_common":"998","boroname":"Brooklyn"}
+,{"spc_common":"'Schubert' chokecherry","health":"Good","count_spc_common":"111","boroname":"Manhattan"}
+,{"spc_common":"'Schubert' chokecherry","health":"Good","count_spc_common":"1650","boroname":"Queens"}
+,{"spc_common":"'Schubert' chokecherry","health":"Good","count_spc_common":"714","boroname":"Staten Island"}
+,{"spc_common":"'Schubert' chokecherry","health":"Poor","count_spc_common":"29","boroname":"Bronx"}
+,{"spc_common":"'Schubert' chokecherry","health":"Poor","count_spc_common":"99","boroname":"Brooklyn"}
+,{"spc_common":"'Schubert' chokecherry","health":"Poor","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"'Schubert' chokecherry","health":"Poor","count_spc_common":"73","boroname":"Queens"}
+,{"spc_common":"'Schubert' chokecherry","health":"Poor","count_spc_common":"29","boroname":"Staten Island"}
+,{"spc_common":"Schumard's oak","health":"Fair","count_spc_common":"36","boroname":"Bronx"}
+,{"spc_common":"Schumard's oak","health":"Fair","count_spc_common":"104","boroname":"Brooklyn"}
+,{"spc_common":"Schumard's oak","health":"Fair","count_spc_common":"20","boroname":"Manhattan"}
+,{"spc_common":"Schumard's oak","health":"Fair","count_spc_common":"29","boroname":"Queens"}
+,{"spc_common":"Schumard's oak","health":"Fair","count_spc_common":"51","boroname":"Staten Island"}
+,{"spc_common":"Schumard's oak","health":"Good","count_spc_common":"221","boroname":"Bronx"}
+,{"spc_common":"Schumard's oak","health":"Good","count_spc_common":"458","boroname":"Brooklyn"}
+,{"spc_common":"Schumard's oak","health":"Good","count_spc_common":"111","boroname":"Manhattan"}
+,{"spc_common":"Schumard's oak","health":"Good","count_spc_common":"189","boroname":"Queens"}
+,{"spc_common":"Schumard's oak","health":"Good","count_spc_common":"208","boroname":"Staten Island"}
+,{"spc_common":"Schumard's oak","health":"Poor","count_spc_common":"4","boroname":"Bronx"}
+,{"spc_common":"Schumard's oak","health":"Poor","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"Schumard's oak","health":"Poor","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"Schumard's oak","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"Schumard's oak","health":"Poor","count_spc_common":"23","boroname":"Staten Island"}
+,{"spc_common":"Scots pine","health":"Fair","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Scots pine","health":"Fair","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"Scots pine","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Scots pine","health":"Good","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Scots pine","health":"Good","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"Scots pine","health":"Good","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Scots pine","health":"Good","count_spc_common":"13","boroname":"Queens"}
+,{"spc_common":"Scots pine","health":"Good","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Scots pine","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"serviceberry","health":"Fair","count_spc_common":"33","boroname":"Bronx"}
+,{"spc_common":"serviceberry","health":"Fair","count_spc_common":"77","boroname":"Brooklyn"}
+,{"spc_common":"serviceberry","health":"Fair","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"serviceberry","health":"Fair","count_spc_common":"110","boroname":"Queens"}
+,{"spc_common":"serviceberry","health":"Fair","count_spc_common":"50","boroname":"Staten Island"}
+,{"spc_common":"serviceberry","health":"Good","count_spc_common":"257","boroname":"Bronx"}
+,{"spc_common":"serviceberry","health":"Good","count_spc_common":"263","boroname":"Brooklyn"}
+,{"spc_common":"serviceberry","health":"Good","count_spc_common":"30","boroname":"Manhattan"}
+,{"spc_common":"serviceberry","health":"Good","count_spc_common":"715","boroname":"Queens"}
+,{"spc_common":"serviceberry","health":"Good","count_spc_common":"361","boroname":"Staten Island"}
+,{"spc_common":"serviceberry","health":"Poor","count_spc_common":"17","boroname":"Bronx"}
+,{"spc_common":"serviceberry","health":"Poor","count_spc_common":"23","boroname":"Brooklyn"}
+,{"spc_common":"serviceberry","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"serviceberry","health":"Poor","count_spc_common":"63","boroname":"Queens"}
+,{"spc_common":"serviceberry","health":"Poor","count_spc_common":"25","boroname":"Staten Island"}
+,{"spc_common":"Shantung maple","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"Shantung maple","health":"Fair","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Shantung maple","health":"Fair","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"Shantung maple","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Shantung maple","health":"Good","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"Shantung maple","health":"Good","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"Shantung maple","health":"Good","count_spc_common":"23","boroname":"Queens"}
+,{"spc_common":"Shantung maple","health":"Good","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"Shantung maple","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Shantung maple","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"Shantung maple","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"shingle oak","health":"Fair","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"shingle oak","health":"Fair","count_spc_common":"36","boroname":"Brooklyn"}
+,{"spc_common":"shingle oak","health":"Fair","count_spc_common":"34","boroname":"Manhattan"}
+,{"spc_common":"shingle oak","health":"Fair","count_spc_common":"36","boroname":"Queens"}
+,{"spc_common":"shingle oak","health":"Fair","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"shingle oak","health":"Good","count_spc_common":"155","boroname":"Bronx"}
+,{"spc_common":"shingle oak","health":"Good","count_spc_common":"224","boroname":"Brooklyn"}
+,{"spc_common":"shingle oak","health":"Good","count_spc_common":"165","boroname":"Manhattan"}
+,{"spc_common":"shingle oak","health":"Good","count_spc_common":"283","boroname":"Queens"}
+,{"spc_common":"shingle oak","health":"Good","count_spc_common":"49","boroname":"Staten Island"}
+,{"spc_common":"shingle oak","health":"Poor","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"shingle oak","health":"Poor","count_spc_common":"17","boroname":"Brooklyn"}
+,{"spc_common":"shingle oak","health":"Poor","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"shingle oak","health":"Poor","count_spc_common":"14","boroname":"Queens"}
+,{"spc_common":"shingle oak","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"Siberian elm","health":"Fair","count_spc_common":"35","boroname":"Bronx"}
+,{"spc_common":"Siberian elm","health":"Fair","count_spc_common":"129","boroname":"Brooklyn"}
+,{"spc_common":"Siberian elm","health":"Fair","count_spc_common":"18","boroname":"Manhattan"}
+,{"spc_common":"Siberian elm","health":"Fair","count_spc_common":"69","boroname":"Queens"}
+,{"spc_common":"Siberian elm","health":"Fair","count_spc_common":"23","boroname":"Staten Island"}
+,{"spc_common":"Siberian elm","health":"Good","count_spc_common":"349","boroname":"Bronx"}
+,{"spc_common":"Siberian elm","health":"Good","count_spc_common":"365","boroname":"Brooklyn"}
+,{"spc_common":"Siberian elm","health":"Good","count_spc_common":"131","boroname":"Manhattan"}
+,{"spc_common":"Siberian elm","health":"Good","count_spc_common":"249","boroname":"Queens"}
+,{"spc_common":"Siberian elm","health":"Good","count_spc_common":"176","boroname":"Staten Island"}
+,{"spc_common":"Siberian elm","health":"Poor","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"Siberian elm","health":"Poor","count_spc_common":"13","boroname":"Brooklyn"}
+,{"spc_common":"Siberian elm","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Siberian elm","health":"Poor","count_spc_common":"22","boroname":"Queens"}
+,{"spc_common":"Siberian elm","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"silver birch","health":"Fair","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"silver birch","health":"Fair","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"silver birch","health":"Fair","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"silver birch","health":"Fair","count_spc_common":"14","boroname":"Queens"}
+,{"spc_common":"silver birch","health":"Fair","count_spc_common":"13","boroname":"Staten Island"}
+,{"spc_common":"silver birch","health":"Good","count_spc_common":"28","boroname":"Bronx"}
+,{"spc_common":"silver birch","health":"Good","count_spc_common":"88","boroname":"Brooklyn"}
+,{"spc_common":"silver birch","health":"Good","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"silver birch","health":"Good","count_spc_common":"66","boroname":"Queens"}
+,{"spc_common":"silver birch","health":"Good","count_spc_common":"37","boroname":"Staten Island"}
+,{"spc_common":"silver birch","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"silver birch","health":"Poor","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"silver birch","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"silver birch","health":"Poor","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"silver linden","health":"Fair","count_spc_common":"89","boroname":"Bronx"}
+,{"spc_common":"silver linden","health":"Fair","count_spc_common":"338","boroname":"Brooklyn"}
+,{"spc_common":"silver linden","health":"Fair","count_spc_common":"117","boroname":"Manhattan"}
+,{"spc_common":"silver linden","health":"Fair","count_spc_common":"334","boroname":"Queens"}
+,{"spc_common":"silver linden","health":"Fair","count_spc_common":"21","boroname":"Staten Island"}
+,{"spc_common":"silver linden","health":"Good","count_spc_common":"550","boroname":"Bronx"}
+,{"spc_common":"silver linden","health":"Good","count_spc_common":"1927","boroname":"Brooklyn"}
+,{"spc_common":"silver linden","health":"Good","count_spc_common":"382","boroname":"Manhattan"}
+,{"spc_common":"silver linden","health":"Good","count_spc_common":"3735","boroname":"Queens"}
+,{"spc_common":"silver linden","health":"Good","count_spc_common":"239","boroname":"Staten Island"}
+,{"spc_common":"silver linden","health":"Poor","count_spc_common":"31","boroname":"Bronx"}
+,{"spc_common":"silver linden","health":"Poor","count_spc_common":"108","boroname":"Brooklyn"}
+,{"spc_common":"silver linden","health":"Poor","count_spc_common":"42","boroname":"Manhattan"}
+,{"spc_common":"silver linden","health":"Poor","count_spc_common":"77","boroname":"Queens"}
+,{"spc_common":"silver linden","health":"Poor","count_spc_common":"5","boroname":"Staten Island"}
+,{"spc_common":"silver maple","health":"Fair","count_spc_common":"102","boroname":"Bronx"}
+,{"spc_common":"silver maple","health":"Fair","count_spc_common":"254","boroname":"Brooklyn"}
+,{"spc_common":"silver maple","health":"Fair","count_spc_common":"22","boroname":"Manhattan"}
+,{"spc_common":"silver maple","health":"Fair","count_spc_common":"1160","boroname":"Queens"}
+,{"spc_common":"silver maple","health":"Fair","count_spc_common":"718","boroname":"Staten Island"}
+,{"spc_common":"silver maple","health":"Good","count_spc_common":"522","boroname":"Bronx"}
+,{"spc_common":"silver maple","health":"Good","count_spc_common":"1075","boroname":"Brooklyn"}
+,{"spc_common":"silver maple","health":"Good","count_spc_common":"37","boroname":"Manhattan"}
+,{"spc_common":"silver maple","health":"Good","count_spc_common":"4695","boroname":"Queens"}
+,{"spc_common":"silver maple","health":"Good","count_spc_common":"3133","boroname":"Staten Island"}
+,{"spc_common":"silver maple","health":"Poor","count_spc_common":"38","boroname":"Bronx"}
+,{"spc_common":"silver maple","health":"Poor","count_spc_common":"46","boroname":"Brooklyn"}
+,{"spc_common":"silver maple","health":"Poor","count_spc_common":"12","boroname":"Manhattan"}
+,{"spc_common":"silver maple","health":"Poor","count_spc_common":"261","boroname":"Queens"}
+,{"spc_common":"silver maple","health":"Poor","count_spc_common":"202","boroname":"Staten Island"}
+,{"spc_common":"smoketree","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"smoketree","health":"Fair","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"smoketree","health":"Fair","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"smoketree","health":"Good","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"smoketree","health":"Good","count_spc_common":"9","boroname":"Brooklyn"}
+,{"spc_common":"smoketree","health":"Good","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"smoketree","health":"Good","count_spc_common":"35","boroname":"Queens"}
+,{"spc_common":"smoketree","health":"Good","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"smoketree","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"Sophora","health":"Fair","count_spc_common":"319","boroname":"Bronx"}
+,{"spc_common":"Sophora","health":"Fair","count_spc_common":"811","boroname":"Brooklyn"}
+,{"spc_common":"Sophora","health":"Fair","count_spc_common":"713","boroname":"Manhattan"}
+,{"spc_common":"Sophora","health":"Fair","count_spc_common":"879","boroname":"Queens"}
+,{"spc_common":"Sophora","health":"Fair","count_spc_common":"168","boroname":"Staten Island"}
+,{"spc_common":"Sophora","health":"Good","count_spc_common":"2155","boroname":"Bronx"}
+,{"spc_common":"Sophora","health":"Good","count_spc_common":"5034","boroname":"Brooklyn"}
+,{"spc_common":"Sophora","health":"Good","count_spc_common":"3554","boroname":"Manhattan"}
+,{"spc_common":"Sophora","health":"Good","count_spc_common":"4350","boroname":"Queens"}
+,{"spc_common":"Sophora","health":"Good","count_spc_common":"739","boroname":"Staten Island"}
+,{"spc_common":"Sophora","health":"Poor","count_spc_common":"81","boroname":"Bronx"}
+,{"spc_common":"Sophora","health":"Poor","count_spc_common":"144","boroname":"Brooklyn"}
+,{"spc_common":"Sophora","health":"Poor","count_spc_common":"186","boroname":"Manhattan"}
+,{"spc_common":"Sophora","health":"Poor","count_spc_common":"157","boroname":"Queens"}
+,{"spc_common":"Sophora","health":"Poor","count_spc_common":"48","boroname":"Staten Island"}
+,{"spc_common":"southern magnolia","health":"Fair","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"southern magnolia","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"southern magnolia","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"southern magnolia","health":"Fair","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"southern magnolia","health":"Fair","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"southern magnolia","health":"Good","count_spc_common":"16","boroname":"Bronx"}
+,{"spc_common":"southern magnolia","health":"Good","count_spc_common":"22","boroname":"Brooklyn"}
+,{"spc_common":"southern magnolia","health":"Good","count_spc_common":"15","boroname":"Manhattan"}
+,{"spc_common":"southern magnolia","health":"Good","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"southern magnolia","health":"Good","count_spc_common":"18","boroname":"Staten Island"}
+,{"spc_common":"southern magnolia","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"southern magnolia","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"southern red oak","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"southern red oak","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"southern red oak","health":"Fair","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"southern red oak","health":"Fair","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"southern red oak","health":"Good","count_spc_common":"10","boroname":"Bronx"}
+,{"spc_common":"southern red oak","health":"Good","count_spc_common":"18","boroname":"Brooklyn"}
+,{"spc_common":"southern red oak","health":"Good","count_spc_common":"6","boroname":"Manhattan"}
+,{"spc_common":"southern red oak","health":"Good","count_spc_common":"21","boroname":"Queens"}
+,{"spc_common":"southern red oak","health":"Good","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"southern red oak","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"southern red oak","health":"Poor","count_spc_common":"2","boroname":"Queens"}
+,{"spc_common":"spruce","health":"Fair","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"spruce","health":"Fair","count_spc_common":"6","boroname":"Brooklyn"}
+,{"spc_common":"spruce","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"spruce","health":"Fair","count_spc_common":"22","boroname":"Queens"}
+,{"spc_common":"spruce","health":"Fair","count_spc_common":"13","boroname":"Staten Island"}
+,{"spc_common":"spruce","health":"Good","count_spc_common":"8","boroname":"Bronx"}
+,{"spc_common":"spruce","health":"Good","count_spc_common":"24","boroname":"Brooklyn"}
+,{"spc_common":"spruce","health":"Good","count_spc_common":"100","boroname":"Queens"}
+,{"spc_common":"spruce","health":"Good","count_spc_common":"20","boroname":"Staten Island"}
+,{"spc_common":"spruce","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"spruce","health":"Poor","count_spc_common":"4","boroname":"Queens"}
+,{"spc_common":"spruce","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"sugar maple","health":"Fair","count_spc_common":"69","boroname":"Bronx"}
+,{"spc_common":"sugar maple","health":"Fair","count_spc_common":"179","boroname":"Brooklyn"}
+,{"spc_common":"sugar maple","health":"Fair","count_spc_common":"13","boroname":"Manhattan"}
+,{"spc_common":"sugar maple","health":"Fair","count_spc_common":"286","boroname":"Queens"}
+,{"spc_common":"sugar maple","health":"Fair","count_spc_common":"73","boroname":"Staten Island"}
+,{"spc_common":"sugar maple","health":"Good","count_spc_common":"263","boroname":"Bronx"}
+,{"spc_common":"sugar maple","health":"Good","count_spc_common":"375","boroname":"Brooklyn"}
+,{"spc_common":"sugar maple","health":"Good","count_spc_common":"30","boroname":"Manhattan"}
+,{"spc_common":"sugar maple","health":"Good","count_spc_common":"874","boroname":"Queens"}
+,{"spc_common":"sugar maple","health":"Good","count_spc_common":"448","boroname":"Staten Island"}
+,{"spc_common":"sugar maple","health":"Poor","count_spc_common":"30","boroname":"Bronx"}
+,{"spc_common":"sugar maple","health":"Poor","count_spc_common":"49","boroname":"Brooklyn"}
+,{"spc_common":"sugar maple","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"sugar maple","health":"Poor","count_spc_common":"122","boroname":"Queens"}
+,{"spc_common":"sugar maple","health":"Poor","count_spc_common":"28","boroname":"Staten Island"}
+,{"spc_common":"swamp white oak","health":"Fair","count_spc_common":"107","boroname":"Bronx"}
+,{"spc_common":"swamp white oak","health":"Fair","count_spc_common":"389","boroname":"Brooklyn"}
+,{"spc_common":"swamp white oak","health":"Fair","count_spc_common":"102","boroname":"Manhattan"}
+,{"spc_common":"swamp white oak","health":"Fair","count_spc_common":"168","boroname":"Queens"}
+,{"spc_common":"swamp white oak","health":"Fair","count_spc_common":"143","boroname":"Staten Island"}
+,{"spc_common":"swamp white oak","health":"Good","count_spc_common":"693","boroname":"Bronx"}
+,{"spc_common":"swamp white oak","health":"Good","count_spc_common":"2230","boroname":"Brooklyn"}
+,{"spc_common":"swamp white oak","health":"Good","count_spc_common":"549","boroname":"Manhattan"}
+,{"spc_common":"swamp white oak","health":"Good","count_spc_common":"1346","boroname":"Queens"}
+,{"spc_common":"swamp white oak","health":"Good","count_spc_common":"616","boroname":"Staten Island"}
+,{"spc_common":"swamp white oak","health":"Poor","count_spc_common":"26","boroname":"Bronx"}
+,{"spc_common":"swamp white oak","health":"Poor","count_spc_common":"95","boroname":"Brooklyn"}
+,{"spc_common":"swamp white oak","health":"Poor","count_spc_common":"30","boroname":"Manhattan"}
+,{"spc_common":"swamp white oak","health":"Poor","count_spc_common":"70","boroname":"Queens"}
+,{"spc_common":"swamp white oak","health":"Poor","count_spc_common":"34","boroname":"Staten Island"}
+,{"spc_common":"sweetgum","health":"Fair","count_spc_common":"69","boroname":"Bronx"}
+,{"spc_common":"sweetgum","health":"Fair","count_spc_common":"230","boroname":"Brooklyn"}
+,{"spc_common":"sweetgum","health":"Fair","count_spc_common":"50","boroname":"Manhattan"}
+,{"spc_common":"sweetgum","health":"Fair","count_spc_common":"226","boroname":"Queens"}
+,{"spc_common":"sweetgum","health":"Fair","count_spc_common":"696","boroname":"Staten Island"}
+,{"spc_common":"sweetgum","health":"Good","count_spc_common":"818","boroname":"Bronx"}
+,{"spc_common":"sweetgum","health":"Good","count_spc_common":"1738","boroname":"Brooklyn"}
+,{"spc_common":"sweetgum","health":"Good","count_spc_common":"151","boroname":"Manhattan"}
+,{"spc_common":"sweetgum","health":"Good","count_spc_common":"2212","boroname":"Queens"}
+,{"spc_common":"sweetgum","health":"Good","count_spc_common":"4164","boroname":"Staten Island"}
+,{"spc_common":"sweetgum","health":"Poor","count_spc_common":"17","boroname":"Bronx"}
+,{"spc_common":"sweetgum","health":"Poor","count_spc_common":"59","boroname":"Brooklyn"}
+,{"spc_common":"sweetgum","health":"Poor","count_spc_common":"26","boroname":"Manhattan"}
+,{"spc_common":"sweetgum","health":"Poor","count_spc_common":"51","boroname":"Queens"}
+,{"spc_common":"sweetgum","health":"Poor","count_spc_common":"150","boroname":"Staten Island"}
+,{"spc_common":"sycamore maple","health":"Fair","count_spc_common":"52","boroname":"Bronx"}
+,{"spc_common":"sycamore maple","health":"Fair","count_spc_common":"99","boroname":"Brooklyn"}
+,{"spc_common":"sycamore maple","health":"Fair","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"sycamore maple","health":"Fair","count_spc_common":"346","boroname":"Queens"}
+,{"spc_common":"sycamore maple","health":"Fair","count_spc_common":"56","boroname":"Staten Island"}
+,{"spc_common":"sycamore maple","health":"Good","count_spc_common":"180","boroname":"Bronx"}
+,{"spc_common":"sycamore maple","health":"Good","count_spc_common":"393","boroname":"Brooklyn"}
+,{"spc_common":"sycamore maple","health":"Good","count_spc_common":"14","boroname":"Manhattan"}
+,{"spc_common":"sycamore maple","health":"Good","count_spc_common":"1163","boroname":"Queens"}
+,{"spc_common":"sycamore maple","health":"Good","count_spc_common":"241","boroname":"Staten Island"}
+,{"spc_common":"sycamore maple","health":"Poor","count_spc_common":"15","boroname":"Bronx"}
+,{"spc_common":"sycamore maple","health":"Poor","count_spc_common":"52","boroname":"Brooklyn"}
+,{"spc_common":"sycamore maple","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"sycamore maple","health":"Poor","count_spc_common":"94","boroname":"Queens"}
+,{"spc_common":"sycamore maple","health":"Poor","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"tartar maple","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"tartar maple","health":"Fair","count_spc_common":"4","boroname":"Brooklyn"}
+,{"spc_common":"tartar maple","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"tartar maple","health":"Fair","count_spc_common":"9","boroname":"Queens"}
+,{"spc_common":"tartar maple","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"tartar maple","health":"Good","count_spc_common":"32","boroname":"Bronx"}
+,{"spc_common":"tartar maple","health":"Good","count_spc_common":"11","boroname":"Brooklyn"}
+,{"spc_common":"tartar maple","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"tartar maple","health":"Good","count_spc_common":"38","boroname":"Queens"}
+,{"spc_common":"tartar maple","health":"Good","count_spc_common":"28","boroname":"Staten Island"}
+,{"spc_common":"tartar maple","health":"Poor","count_spc_common":"5","boroname":"Bronx"}
+,{"spc_common":"tartar maple","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"tartar maple","health":"Poor","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"tartar maple","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"tree of heaven","health":"Fair","count_spc_common":"20","boroname":"Bronx"}
+,{"spc_common":"tree of heaven","health":"Fair","count_spc_common":"60","boroname":"Brooklyn"}
+,{"spc_common":"tree of heaven","health":"Fair","count_spc_common":"17","boroname":"Manhattan"}
+,{"spc_common":"tree of heaven","health":"Fair","count_spc_common":"47","boroname":"Queens"}
+,{"spc_common":"tree of heaven","health":"Fair","count_spc_common":"17","boroname":"Staten Island"}
+,{"spc_common":"tree of heaven","health":"Good","count_spc_common":"53","boroname":"Bronx"}
+,{"spc_common":"tree of heaven","health":"Good","count_spc_common":"147","boroname":"Brooklyn"}
+,{"spc_common":"tree of heaven","health":"Good","count_spc_common":"82","boroname":"Manhattan"}
+,{"spc_common":"tree of heaven","health":"Good","count_spc_common":"213","boroname":"Queens"}
+,{"spc_common":"tree of heaven","health":"Good","count_spc_common":"44","boroname":"Staten Island"}
+,{"spc_common":"tree of heaven","health":"Poor","count_spc_common":"9","boroname":"Bronx"}
+,{"spc_common":"tree of heaven","health":"Poor","count_spc_common":"28","boroname":"Brooklyn"}
+,{"spc_common":"tree of heaven","health":"Poor","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"tree of heaven","health":"Poor","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"tree of heaven","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"trident maple","health":"Fair","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"trident maple","health":"Fair","count_spc_common":"15","boroname":"Queens"}
+,{"spc_common":"trident maple","health":"Fair","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"trident maple","health":"Good","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"trident maple","health":"Good","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"trident maple","health":"Good","count_spc_common":"50","boroname":"Queens"}
+,{"spc_common":"trident maple","health":"Good","count_spc_common":"20","boroname":"Staten Island"}
+,{"spc_common":"trident maple","health":"Poor","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"tulip-poplar","health":"Fair","count_spc_common":"11","boroname":"Bronx"}
+,{"spc_common":"tulip-poplar","health":"Fair","count_spc_common":"63","boroname":"Brooklyn"}
+,{"spc_common":"tulip-poplar","health":"Fair","count_spc_common":"10","boroname":"Manhattan"}
+,{"spc_common":"tulip-poplar","health":"Fair","count_spc_common":"75","boroname":"Queens"}
+,{"spc_common":"tulip-poplar","health":"Fair","count_spc_common":"45","boroname":"Staten Island"}
+,{"spc_common":"tulip-poplar","health":"Good","count_spc_common":"37","boroname":"Bronx"}
+,{"spc_common":"tulip-poplar","health":"Good","count_spc_common":"187","boroname":"Brooklyn"}
+,{"spc_common":"tulip-poplar","health":"Good","count_spc_common":"17","boroname":"Manhattan"}
+,{"spc_common":"tulip-poplar","health":"Good","count_spc_common":"392","boroname":"Queens"}
+,{"spc_common":"tulip-poplar","health":"Good","count_spc_common":"169","boroname":"Staten Island"}
+,{"spc_common":"tulip-poplar","health":"Poor","count_spc_common":"14","boroname":"Bronx"}
+,{"spc_common":"tulip-poplar","health":"Poor","count_spc_common":"25","boroname":"Brooklyn"}
+,{"spc_common":"tulip-poplar","health":"Poor","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"tulip-poplar","health":"Poor","count_spc_common":"22","boroname":"Queens"}
+,{"spc_common":"tulip-poplar","health":"Poor","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Turkish hazelnut","health":"Fair","count_spc_common":"6","boroname":"Bronx"}
+,{"spc_common":"Turkish hazelnut","health":"Fair","count_spc_common":"20","boroname":"Brooklyn"}
+,{"spc_common":"Turkish hazelnut","health":"Fair","count_spc_common":"9","boroname":"Manhattan"}
+,{"spc_common":"Turkish hazelnut","health":"Fair","count_spc_common":"28","boroname":"Queens"}
+,{"spc_common":"Turkish hazelnut","health":"Fair","count_spc_common":"2","boroname":"Staten Island"}
+,{"spc_common":"Turkish hazelnut","health":"Good","count_spc_common":"45","boroname":"Bronx"}
+,{"spc_common":"Turkish hazelnut","health":"Good","count_spc_common":"63","boroname":"Brooklyn"}
+,{"spc_common":"Turkish hazelnut","health":"Good","count_spc_common":"7","boroname":"Manhattan"}
+,{"spc_common":"Turkish hazelnut","health":"Good","count_spc_common":"94","boroname":"Queens"}
+,{"spc_common":"Turkish hazelnut","health":"Good","count_spc_common":"14","boroname":"Staten Island"}
+,{"spc_common":"Turkish hazelnut","health":"Poor","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"Turkish hazelnut","health":"Poor","count_spc_common":"10","boroname":"Brooklyn"}
+,{"spc_common":"Turkish hazelnut","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"Turkish hazelnut","health":"Poor","count_spc_common":"14","boroname":"Queens"}
+,{"spc_common":"Turkish hazelnut","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"two-winged silverbell","health":"Fair","count_spc_common":"7","boroname":"Bronx"}
+,{"spc_common":"two-winged silverbell","health":"Fair","count_spc_common":"17","boroname":"Brooklyn"}
+,{"spc_common":"two-winged silverbell","health":"Fair","count_spc_common":"3","boroname":"Manhattan"}
+,{"spc_common":"two-winged silverbell","health":"Fair","count_spc_common":"11","boroname":"Queens"}
+,{"spc_common":"two-winged silverbell","health":"Fair","count_spc_common":"18","boroname":"Staten Island"}
+,{"spc_common":"two-winged silverbell","health":"Good","count_spc_common":"18","boroname":"Bronx"}
+,{"spc_common":"two-winged silverbell","health":"Good","count_spc_common":"38","boroname":"Brooklyn"}
+,{"spc_common":"two-winged silverbell","health":"Good","count_spc_common":"5","boroname":"Manhattan"}
+,{"spc_common":"two-winged silverbell","health":"Good","count_spc_common":"61","boroname":"Queens"}
+,{"spc_common":"two-winged silverbell","health":"Good","count_spc_common":"36","boroname":"Staten Island"}
+,{"spc_common":"two-winged silverbell","health":"Poor","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"two-winged silverbell","health":"Poor","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"two-winged silverbell","health":"Poor","count_spc_common":"1","boroname":"Queens"}
+,{"spc_common":"two-winged silverbell","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"Virginia pine","health":"Good","count_spc_common":"1","boroname":"Bronx"}
+,{"spc_common":"Virginia pine","health":"Good","count_spc_common":"2","boroname":"Brooklyn"}
+,{"spc_common":"Virginia pine","health":"Good","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"Virginia pine","health":"Good","count_spc_common":"3","boroname":"Queens"}
+,{"spc_common":"Virginia pine","health":"Poor","count_spc_common":"1","boroname":"Brooklyn"}
+,{"spc_common":"Virginia pine","health":"Poor","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"weeping willow","health":"Fair","count_spc_common":"2","boroname":"Bronx"}
+,{"spc_common":"weeping willow","health":"Fair","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"weeping willow","health":"Fair","count_spc_common":"4","boroname":"Manhattan"}
+,{"spc_common":"weeping willow","health":"Fair","count_spc_common":"28","boroname":"Queens"}
+,{"spc_common":"weeping willow","health":"Fair","count_spc_common":"9","boroname":"Staten Island"}
+,{"spc_common":"weeping willow","health":"Good","count_spc_common":"25","boroname":"Bronx"}
+,{"spc_common":"weeping willow","health":"Good","count_spc_common":"44","boroname":"Brooklyn"}
+,{"spc_common":"weeping willow","health":"Good","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"weeping willow","health":"Good","count_spc_common":"98","boroname":"Queens"}
+,{"spc_common":"weeping willow","health":"Good","count_spc_common":"43","boroname":"Staten Island"}
+,{"spc_common":"weeping willow","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"weeping willow","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"weeping willow","health":"Poor","count_spc_common":"3","boroname":"Staten Island"}
+,{"spc_common":"white ash","health":"Fair","count_spc_common":"21","boroname":"Bronx"}
+,{"spc_common":"white ash","health":"Fair","count_spc_common":"61","boroname":"Brooklyn"}
+,{"spc_common":"white ash","health":"Fair","count_spc_common":"8","boroname":"Manhattan"}
+,{"spc_common":"white ash","health":"Fair","count_spc_common":"43","boroname":"Queens"}
+,{"spc_common":"white ash","health":"Fair","count_spc_common":"33","boroname":"Staten Island"}
+,{"spc_common":"white ash","health":"Good","count_spc_common":"133","boroname":"Bronx"}
+,{"spc_common":"white ash","health":"Good","count_spc_common":"264","boroname":"Brooklyn"}
+,{"spc_common":"white ash","health":"Good","count_spc_common":"40","boroname":"Manhattan"}
+,{"spc_common":"white ash","health":"Good","count_spc_common":"345","boroname":"Queens"}
+,{"spc_common":"white ash","health":"Good","count_spc_common":"115","boroname":"Staten Island"}
+,{"spc_common":"white ash","health":"Poor","count_spc_common":"20","boroname":"Bronx"}
+,{"spc_common":"white ash","health":"Poor","count_spc_common":"17","boroname":"Brooklyn"}
+,{"spc_common":"white ash","health":"Poor","count_spc_common":"2","boroname":"Manhattan"}
+,{"spc_common":"white ash","health":"Poor","count_spc_common":"12","boroname":"Queens"}
+,{"spc_common":"white ash","health":"Poor","count_spc_common":"7","boroname":"Staten Island"}
+,{"spc_common":"white oak","health":"Fair","count_spc_common":"27","boroname":"Bronx"}
+,{"spc_common":"white oak","health":"Fair","count_spc_common":"67","boroname":"Brooklyn"}
+,{"spc_common":"white oak","health":"Fair","count_spc_common":"56","boroname":"Manhattan"}
+,{"spc_common":"white oak","health":"Fair","count_spc_common":"68","boroname":"Queens"}
+,{"spc_common":"white oak","health":"Fair","count_spc_common":"45","boroname":"Staten Island"}
+,{"spc_common":"white oak","health":"Good","count_spc_common":"165","boroname":"Bronx"}
+,{"spc_common":"white oak","health":"Good","count_spc_common":"415","boroname":"Brooklyn"}
+,{"spc_common":"white oak","health":"Good","count_spc_common":"162","boroname":"Manhattan"}
+,{"spc_common":"white oak","health":"Good","count_spc_common":"413","boroname":"Queens"}
+,{"spc_common":"white oak","health":"Good","count_spc_common":"176","boroname":"Staten Island"}
+,{"spc_common":"white oak","health":"Poor","count_spc_common":"11","boroname":"Bronx"}
+,{"spc_common":"white oak","health":"Poor","count_spc_common":"21","boroname":"Brooklyn"}
+,{"spc_common":"white oak","health":"Poor","count_spc_common":"23","boroname":"Manhattan"}
+,{"spc_common":"white oak","health":"Poor","count_spc_common":"26","boroname":"Queens"}
+,{"spc_common":"white oak","health":"Poor","count_spc_common":"11","boroname":"Staten Island"}
+,{"spc_common":"white pine","health":"Fair","count_spc_common":"3","boroname":"Bronx"}
+,{"spc_common":"white pine","health":"Fair","count_spc_common":"8","boroname":"Brooklyn"}
+,{"spc_common":"white pine","health":"Fair","count_spc_common":"1","boroname":"Manhattan"}
+,{"spc_common":"white pine","health":"Fair","count_spc_common":"20","boroname":"Queens"}
+,{"spc_common":"white pine","health":"Fair","count_spc_common":"4","boroname":"Staten Island"}
+,{"spc_common":"white pine","health":"Good","count_spc_common":"14","boroname":"Bronx"}
+,{"spc_common":"white pine","health":"Good","count_spc_common":"26","boroname":"Brooklyn"}
+,{"spc_common":"white pine","health":"Good","count_spc_common":"73","boroname":"Queens"}
+,{"spc_common":"white pine","health":"Good","count_spc_common":"42","boroname":"Staten Island"}
+,{"spc_common":"white pine","health":"Poor","count_spc_common":"3","boroname":"Brooklyn"}
+,{"spc_common":"white pine","health":"Poor","count_spc_common":"7","boroname":"Queens"}
+,{"spc_common":"white pine","health":"Poor","count_spc_common":"1","boroname":"Staten Island"}
+,{"spc_common":"willow oak","health":"Fair","count_spc_common":"42","boroname":"Bronx"}
+,{"spc_common":"willow oak","health":"Fair","count_spc_common":"101","boroname":"Brooklyn"}
+,{"spc_common":"willow oak","health":"Fair","count_spc_common":"115","boroname":"Manhattan"}
+,{"spc_common":"willow oak","health":"Fair","count_spc_common":"65","boroname":"Queens"}
+,{"spc_common":"willow oak","health":"Fair","count_spc_common":"37","boroname":"Staten Island"}
+,{"spc_common":"willow oak","health":"Good","count_spc_common":"453","boroname":"Bronx"}
+,{"spc_common":"willow oak","health":"Good","count_spc_common":"665","boroname":"Brooklyn"}
+,{"spc_common":"willow oak","health":"Good","count_spc_common":"747","boroname":"Manhattan"}
+,{"spc_common":"willow oak","health":"Good","count_spc_common":"650","boroname":"Queens"}
+,{"spc_common":"willow oak","health":"Good","count_spc_common":"210","boroname":"Staten Island"}
+,{"spc_common":"willow oak","health":"Poor","count_spc_common":"10","boroname":"Bronx"}
+,{"spc_common":"willow oak","health":"Poor","count_spc_common":"36","boroname":"Brooklyn"}
+,{"spc_common":"willow oak","health":"Poor","count_spc_common":"27","boroname":"Manhattan"}
+,{"spc_common":"willow oak","health":"Poor","count_spc_common":"15","boroname":"Queens"}
+,{"spc_common":"willow oak","health":"Poor","count_spc_common":"11","boroname":"Staten Island"}
+,{"health":"Good","count_spc_common":"0","boroname":"Bronx"}
+,{"health":"Good","count_spc_common":"0","boroname":"Queens"}
+,{"health":"Poor","count_spc_common":"0","boroname":"Queens"}
+,{"count_spc_common":"0","boroname":"Bronx"}
+,{"count_spc_common":"0","boroname":"Brooklyn"}
+,{"count_spc_common":"0","boroname":"Manhattan"}
+,{"count_spc_common":"0","boroname":"Queens"}
+,{"count_spc_common":"0","boroname":"Staten Island"}]
